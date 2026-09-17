@@ -1,0 +1,14 @@
+{
+  "status": "equivalent",
+  "differences": []
+}
+test_currency (test_experiment.SemanticTests.test_currency) ... ok
+test_nonfinite (test_experiment.SemanticTests.test_nonfinite) ... ok
+test_purpose_change (test_experiment.SemanticTests.test_purpose_change) ... ok
+test_unit_equivalence (test_experiment.SemanticTests.test_unit_equivalence) ... ok
+test_unknown_unit (test_experiment.SemanticTests.test_unknown_unit) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.000s
+
+OK

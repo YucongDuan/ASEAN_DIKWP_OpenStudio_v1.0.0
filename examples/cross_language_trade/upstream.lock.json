@@ -1,0 +1,17 @@
+{
+  "schema": "openstudio.upstream-lock/1",
+  "project_id": "p_mu3u8rhg_4znbdbgute",
+  "created_at": "2026-09-16T08:27:56.070Z",
+  "repositories": [
+    {
+      "name": "DIKWP-PACT-v0.1.0",
+      "url": "https://github.com/YucongDuan/DIKWP-PACT-v0.1.0",
+      "license": "Apache-2.0",
+      "role": "purpose check",
+      "commit": null,
+      "owner": "YucongDuan",
+      "status": "pin-required"
+    }
+  ],
+  "instruction": "Run scripts/upstream.py pin --manifest upstream.lock.json, then fetch. No upstream source is included in this generated scaffold."
+}

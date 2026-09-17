@@ -1,0 +1,51 @@
+[
+  {
+    "lab": "alignment",
+    "input": {
+      "left": {
+        "language": "zh",
+        "entity": "mango-lot-17",
+        "purpose": "compare-shipping",
+        "quantity": 1000,
+        "unit": "kg",
+        "currency": "CNY"
+      },
+      "right": {
+        "language": "vi",
+        "entity": "mango-lot-17",
+        "purpose": "compare-shipping",
+        "quantity": 1,
+        "unit": "tonne",
+        "currency": "CNY"
+      }
+    },
+    "output": {
+      "lab": "alignment",
+      "baseline": {
+        "status": "mismatch",
+        "method": "literal-fields"
+      },
+      "revision": {
+        "status": "equivalent",
+        "differences": [],
+        "unresolved": [],
+        "normalized": [
+          1000,
+          1000
+        ]
+      },
+      "trace": [
+        {
+          "step": "units",
+          "status": "equivalent",
+          "dimension": "mass",
+          "left": 1000,
+          "right": 1000
+        }
+      ],
+      "interpretation": "Structured semantic-slot comparison, not unrestricted natural-language translation."
+    },
+    "at": "2026-09-16T00:00:00Z",
+    "engine": "1.0.0"
+  }
+]

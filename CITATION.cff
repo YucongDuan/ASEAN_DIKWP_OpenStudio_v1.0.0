@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Cite this software version and separately cite the upstream research and source commits you use."
+title: "DIKWP OpenStudio: Multilingual Learning, Repository Inheritance and Student Innovation"
+version: 1.0.0
+date-released: 2026-09-16
+authors:
+  - family-names: Duan
+    given-names: Yucong
+  - name: OpenStudio Contributors
+license: Apache-2.0
+abstract: "An offline-first China–ASEAN educational workbench connecting DIKWP lessons, research repositories, reproducible experiments and student contributions. Initial implementation and new teaching content were AI-assisted."
+repository-code: "https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0"

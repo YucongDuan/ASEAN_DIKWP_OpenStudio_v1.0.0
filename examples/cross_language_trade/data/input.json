@@ -1,0 +1,18 @@
+{
+  "left": {
+    "language": "zh",
+    "entity": "mango-lot-17",
+    "purpose": "compare-shipping",
+    "quantity": 1000,
+    "unit": "kg",
+    "currency": "CNY"
+  },
+  "right": {
+    "language": "vi",
+    "entity": "mango-lot-17",
+    "purpose": "compare-shipping",
+    "quantity": 1,
+    "unit": "tonne",
+    "currency": "CNY"
+  }
+}

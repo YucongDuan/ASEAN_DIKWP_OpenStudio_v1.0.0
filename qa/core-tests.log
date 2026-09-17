@@ -1,0 +1,84 @@
+PASS kg-tonne normalized equivalence
+PASS currency change retained
+PASS purpose change retained and ablated
+PASS entity mismatch
+PASS unknown unit unresolved
+PASS dimension mismatch
+PASS quantity mismatch
+PASS unit alias g
+PASS unit alias t
+PASS unit alias 吨
+PASS unit alias tấn
+PASS unit alias 公斤
+PASS invalid quantity NaN
+PASS invalid quantity Infinity
+PASS invalid quantity -1
+PASS invalid quantity 1
+PASS invalid quantity null
+PASS invalid quantity true
+PASS normalized overflow rejected
+PASS 3-No conflict not averaged away
+PASS consistent intervals
+PASS missing-only insufficient
+PASS incomplete observations retained
+PASS boundary intersection valid
+PASS outside target
+PASS uncertain target
+PASS reversed input rejects
+PASS reversed target rejects
+PASS too many intervals rejects
+PASS purpose-action retains useful draft
+PASS keyword overblocking visible
+PASS draft without evidence flagged
+PASS purpose action ablation
+PASS unsupported action rejected
+PASS fractional evidence rejected
+PASS route goals change selection
+PASS route preserves alternatives
+PASS same-node zero route
+PASS bad route node rejected
+PASS unknown lab rejected
+PASS 483 unique candidates
+PASS 48 curated routes
+PASS 13 locale schema complete
+PASS all 12 full lessons zh
+PASS all 12 full lessons en
+PASS all 12 full lessons vi
+PASS multilingual concept 教育
+PASS multilingual concept education
+PASS multilingual concept giáo dục
+PASS multilingual concept pendidikan
+PASS multilingual concept การศึกษา
+PASS multilingual concept ပညာရေး
+PASS multilingual concept ການສຶກສາ
+PASS multilingual concept ការអប់រំ
+PASS exact known repo first
+PASS license filter not fabricated
+PASS curated filter
+PASS recommendation reasons present
+PASS prerequisites precede dependents
+PASS cyclic learning routes rejected
+PASS no concept defaults to DIKWP
+PASS quiz dikwp
+PASS quiz context
+PASS quiz three-no
+PASS quiz purpose
+PASS quiz pact
+PASS quiz evidence
+PASS quiz triz
+PASS quiz repo
+PASS quiz inherit
+PASS quiz evaluate
+PASS quiz consciousness
+PASS quiz create
+PASS project roundtrip
+PASS invalid source rejected
+PASS more than six components rejected
+PASS blank title rejected
+PASS malformed experiment rejected
+PASS oversized text rejected
+PASS manifest requires pin until provided
+PASS project source metadata no source implementation claim
+PASS scaffold runnable files complete
+PASS ZIP header correct
+TOTAL 83 passed

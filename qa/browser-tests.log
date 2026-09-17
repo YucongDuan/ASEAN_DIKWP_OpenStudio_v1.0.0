@@ -1,0 +1,60 @@
+PASS home metrics 483
+PASS home six problem starters
+PASS locale zh
+PASS locale en
+PASS locale vi
+PASS locale id
+PASS locale ms
+PASS locale pt
+PASS locale fil
+PASS locale th
+PASS locale km
+PASS locale lo
+PASS locale my
+PASS locale ta
+PASS locale tet
+PASS Vietnamese lesson automatically selected
+PASS Vietnamese full body
+PASS quiz interaction dikwp
+PASS quiz interaction context
+PASS quiz interaction three-no
+PASS quiz interaction purpose
+PASS quiz interaction pact
+PASS quiz interaction evidence
+PASS quiz interaction triz
+PASS quiz interaction repo
+PASS quiz interaction inherit
+PASS quiz interaction evaluate
+PASS quiz interaction consciousness
+PASS quiz interaction create
+PASS quiz progress 12 persisted in test storage
+PASS Vietnamese query identifies concepts
+PASS curated filter
+PASS selection basket
+PASS comparison modal opens
+PASS learning route contains modules
+PASS starter generates project
+PASS lab runs alignment
+PASS lab runs three-no
+PASS lab runs action
+PASS lab runs purpose
+PASS four results attached
+PASS changed purpose produces mismatch
+PASS ablation comparison visible
+PASS project saved to test storage
+PASS experiment replay consistent
+PASS browser creates ZIP download
+PASS 107 source cards
+PASS ten formal books
+PASS Henan book included
+PASS lecture page 128
+PASS mobile home no horizontal overflow
+PASS mobile lesson no overflow
+PASS teacher creates class
+PASS student joins class
+PASS server version save
+PASS student submits snapshot
+PASS teacher saves feedback
+PASS student receives feedback
+PASS no uncaught JS errors
+TOTAL 59 passed

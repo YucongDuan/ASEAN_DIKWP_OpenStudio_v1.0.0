@@ -1,0 +1,959 @@
+[
+  {
+    "id": "dikwp",
+    "title": {
+      "zh": "五类语义资源，而非五级阶梯",
+      "en": "Five semantic resources, not five rungs",
+      "vi": "Năm loại tài nguyên ngữ nghĩa, không phải năm bậc"
+    },
+    "prerequisites": [],
+    "tags": [
+      "purpose",
+      "language"
+    ],
+    "slides": [
+      5,
+      6,
+      7
+    ],
+    "question": {
+      "zh": "同一个“30”，怎样变成有意义的判断？",
+      "en": "How can the same “30” become a meaningful decision?",
+      "vi": "Vì sao cùng một số “30” có thể dẫn đến những quyết định khác nhau?"
+    },
+    "body": {
+      "zh": "把观测记录为D，把语境中的差异与关联组织为I，把可复用关系表达为K，把目标冲突下的权衡表达为W，把希望实现的变化及受益对象写成P。五类资源允许双向转换，而不是只向上爬升。",
+      "en": "Represent observations as D, contextual differences as I, reusable relations as K, trade-offs as W, and the intended change and beneficiary as P. Resources can transform in multiple directions; they are not a one-way ladder.",
+      "vi": "DIKWP phân biệt dữ liệu (D), thông tin theo ngữ cảnh (I), tri thức có thể tái sử dụng (K), sự cân nhắc giá trị và hệ quả (W), cùng mục đích (P). Đây là năm loại tài nguyên ngữ nghĩa tương tác, không phải năm bậc xếp hạng. Một quan sát có thể được diễn giải khác nhau khi người thụ hưởng hoặc mục đích thay đổi. Hãy làm rõ phép chuyển đổi giữa các loại tài nguyên thay vì chỉ gắn nhãn."
+    },
+    "example": {
+      "zh": "D：教室传感器读数30 °C。I：比目标范围高4 °C。K：通风会影响温度与噪声。W：兼顾舒适、能耗与邻班安静。P：改善学习环境，而不是单纯把温度降到最低。",
+      "en": "D: a classroom sensor reads 30 °C. I: this is 4 °C above the target range. K: ventilation affects temperature and noise. W: balance comfort, energy and nearby classes. P: improve learning conditions, not minimize temperature at any cost.",
+      "vi": "D: cảm biến lớp học ghi 30 °C. I: nhiệt độ cao hơn mức mục tiêu 4 °C. K: thông gió ảnh hưởng đến cả nhiệt độ và tiếng ồn. W: cân nhắc sự thoải mái, năng lượng và lớp bên cạnh. P: cải thiện điều kiện học tập, không phải giảm nhiệt độ bằng mọi giá."
+    },
+    "misconception": {
+      "zh": "误区：把所有文本都称作知识，或认为P天然拥有执行权限。",
+      "en": "Pitfall: calling every text knowledge, or treating a purpose as permission to act.",
+      "vi": "Thêm năm nhãn D/I/K/W/P không tự tạo ra khả năng hiểu. Cần giải thích ngữ cảnh, phép biến đổi và hệ quả."
+    },
+    "practice": {
+      "zh": "在作品工作室把自己的问题分别填进D/I/K/W/P，再修改P观察仓库推荐为何变化。",
+      "en": "Describe your own problem in D/I/K/W/P in the studio; change P and examine why the project choices change.",
+      "vi": "Chọn một vấn đề học tập của bạn. Viết năm trường D/I/K/W/P, sau đó thay đổi người thụ hưởng và chỉ ra trường nào phải được sửa."
+    },
+    "quiz": {
+      "question": {
+        "zh": "哪一项最直接表达Purpose？",
+        "en": "Which item expresses Purpose most directly?",
+        "vi": "Mục nào thể hiện Purpose trực tiếp nhất?"
+      },
+      "options": {
+        "zh": [
+          "传感器读数",
+          "一条转换规则",
+          "希望为谁实现什么变化"
+        ],
+        "en": [
+          "A sensor reading",
+          "A transformation rule",
+          "The intended change and its beneficiary"
+        ],
+        "vi": [
+          "Một giá trị cảm biến",
+          "Một quy tắc chuyển đổi",
+          "Thay đổi mong muốn và người được hưởng lợi"
+        ]
+      },
+      "answer": 2,
+      "explanation": {
+        "zh": "P明确期望与受益者，D和K提供支持而不能替用户决定目的。",
+        "en": "P identifies an intended change and beneficiary. D and K support it rather than decide it for the person.",
+        "vi": "Purpose xác định thay đổi mong muốn và đối tượng được phục vụ. Giá trị cảm biến là dữ liệu; quy tắc chuyển đổi là một dạng tri thức."
+      }
+    },
+    "repositories": [
+      "DIKWP-MESH-",
+      "DIKWP-PACT-v0.1.0"
+    ]
+  },
+  {
+    "id": "context",
+    "title": {
+      "zh": "语境、单位与跨语言意义",
+      "en": "Context, units and cross-language meaning",
+      "vi": "Ngữ cảnh, đơn vị và ý nghĩa đa ngôn ngữ"
+    },
+    "prerequisites": [
+      "dikwp"
+    ],
+    "tags": [
+      "language",
+      "evidence"
+    ],
+    "slides": [
+      60,
+      65,
+      66
+    ],
+    "question": {
+      "zh": "翻译正确的句子为什么仍可能引起错误行动？",
+      "en": "Why can an apparently correct translation still cause a wrong action?",
+      "vi": "Vì sao một bản dịch có vẻ đúng vẫn có thể gây ra hành động sai?"
+    },
+    "body": {
+      "zh": "将实体标识、单位、币种、数量、目标与任务角色分开保存。语言展示可以变化，关键语义槽位不应被默默修改。对未识别单位保留“待解释”，不要猜测为等价。",
+      "en": "Keep entity identifiers, units, currency, quantities, goals and roles separate. Language presentation may change while critical semantic slots remain explicit. Unknown units remain unresolved instead of being guessed equivalent.",
+      "vi": "Ý nghĩa của một bản ghi phụ thuộc vào thực thể, đơn vị, tiền tệ, thời điểm và mục đích sử dụng. Cầu nối đa ngôn ngữ dùng mã khái niệm chung để nối các cách diễn đạt, nhưng phải giữ lại các điều kiện này. Thí nghiệm trong nền tảng so sánh các trường ngữ nghĩa có cấu trúc; nó không tự hiểu mọi văn bản tự do."
+    },
+    "example": {
+      "zh": "中方记录1000 kg，越方记录1 tonne，两者质量等价；1000 kg与1000 g不等价。人民币100与越南盾100也不等价，除非明确记录汇率与日期。",
+      "en": "1000 kg and 1 tonne are equal in mass; 1000 kg and 1000 g are not. CNY 100 and VND 100 are not equivalent unless an explicit dated conversion is supplied.",
+      "vi": "1000 kg và 1 tấn tương đương về khối lượng; 1000 kg và 1000 g thì không. 100 CNY và 100 VND không tương đương nếu chưa có tỷ giá cụ thể kèm thời điểm."
+    },
+    "misconception": {
+      "zh": "误区：字面一致就是意义一致；用综合相似度抵消关键金额错误。",
+      "en": "Pitfall: equating similar words with equivalent meaning or letting an average score hide a critical quantity error.",
+      "vi": "Chuỗi ký tự giống nhau chưa chắc có cùng nghĩa. Chuỗi khác nhau cũng chưa chắc mâu thuẫn."
+    },
+    "practice": {
+      "zh": "运行语义对齐实验，先测试单位等价，再改变币种、Purpose或实体标识。",
+      "en": "Run the alignment lab; test equivalent units, then change currency, purpose or entity identity.",
+      "vi": "Trong phòng thí nghiệm đối chiếu ngữ nghĩa, đổi kg thành tonne và giữ đúng số lượng. Sau đó chỉ đổi tiền tệ hoặc mục đích để quan sát kết quả."
+    },
+    "quiz": {
+      "question": {
+        "zh": "1000 kg与1 tonne应该如何处理？",
+        "en": "How should 1000 kg and 1 tonne be treated?",
+        "vi": "Nên xử lý 1000 kg và 1 tonne như thế nào?"
+      },
+      "options": {
+        "zh": [
+          "总是冲突",
+          "按质量单位规范化后等价",
+          "只能靠字面匹配"
+        ],
+        "en": [
+          "Always conflicting",
+          "Equivalent after mass normalization",
+          "Only string matching can decide"
+        ],
+        "vi": [
+          "Luôn coi là mâu thuẫn",
+          "Tương đương sau khi chuẩn hóa khối lượng",
+          "Chỉ so khớp chuỗi mới quyết định được"
+        ]
+      },
+      "answer": 1,
+      "explanation": {
+        "zh": "先检查维度，再做确定的单位转换；不要替换币种或实体。",
+        "en": "Check dimension first, then apply the defined conversion without silently replacing currency or entity.",
+        "vi": "Sau chuẩn hóa, cả hai đều là 1000 kg. Kết luận còn phụ thuộc việc các trường thực thể, mục đích và tiền tệ có phù hợp hay không."
+      }
+    },
+    "repositories": [
+      "DIKWP-MESH-",
+      "DIKWP-Chinese-LearnLab-2026-V1",
+      "DIKWP-English-LearnLab-2026-V1"
+    ]
+  },
+  {
+    "id": "three-no",
+    "title": {
+      "zh": "3-No：不完备、不一致、不精确",
+      "en": "3-No: incompleteness, inconsistency, imprecision",
+      "vi": "3-No: thiếu, mâu thuẫn và không chính xác"
+    },
+    "prerequisites": [
+      "dikwp"
+    ],
+    "tags": [
+      "mathematics",
+      "evidence"
+    ],
+    "slides": [
+      8,
+      9,
+      36,
+      37
+    ],
+    "question": {
+      "zh": "面对缺失与矛盾，系统如何继续给出有用结果？",
+      "en": "How can a system remain useful when records are missing or conflicting?",
+      "vi": "Hệ thống có thể tiếp tục hỗ trợ khi dữ liệu thiếu hoặc mâu thuẫn như thế nào?"
+    },
+    "body": {
+      "zh": "不完备是缺少必要信息，不一致是相互冲突的断言，不精确是区间或模糊边界。分别建模后，可以保留多个解释，定位最有价值的补充信息，并在条件明确的范围内继续计算。",
+      "en": "Incompleteness means required information is missing; inconsistency means assertions conflict; imprecision means intervals or fuzzy boundaries. Model them separately to preserve alternatives, identify valuable missing information and compute conditional results.",
+      "vi": "3-No phân biệt tính không đầy đủ, không nhất quán và không chính xác. Thiếu một quan sát khác với hai quan sát xung đột. Một khoảng giá trị thể hiện độ không chính xác; không nên tự biến nó thành một giá trị chắc chắn. Thí nghiệm dùng giao các khoảng để kiểm tra sự nhất quán và giữ lại bao khoảng để cho thấy toàn bộ độ phân tán."
+    },
+    "example": {
+      "zh": "两个冷链传感器分别报告[2,4]与[6,8] °C。区间不相交说明当前不能给出单一一致温度；若第二个未上报，则是缺失而不是冲突。",
+      "en": "Two cold-chain sensors report [2,4] and [6,8] °C. Disjoint intervals do not support a single consistent temperature. An absent second report is missing information, not a contradiction.",
+      "vi": "Hai cảm biến chuỗi lạnh báo [2,4] và [6,8] °C. Hai khoảng không giao nhau nên không hỗ trợ một nhiệt độ nhất quán chung. Nếu cảm biến thứ hai không gửi dữ liệu thì đó là thiếu dữ liệu, không phải mâu thuẫn."
+    },
+    "misconception": {
+      "zh": "误区：简单取平均值消除所有矛盾；给缺失数据补零。",
+      "en": "Pitfall: averaging away every contradiction or replacing missing data with zero.",
+      "vi": "Lấy trung bình có thể che giấu xung đột. Điền số 0 vào trường thiếu có thể tạo ra một quan sát không tồn tại."
+    },
+    "practice": {
+      "zh": "在3-No实验中改变区间、移除观测，比较简单均值基线与区间交集方法。",
+      "en": "Change intervals and remove observations in the 3-No lab; compare a mean baseline with interval intersection.",
+      "vi": "Chạy ba trường hợp: khoảng giao nhau, khoảng rời nhau và quan sát bị thiếu. So sánh kết quả trung bình với kết quả giữ nguyên các loại bất định."
+    },
+    "quiz": {
+      "question": {
+        "zh": "观测缺失与观测冲突应该怎样处理？",
+        "en": "How should missing and conflicting observations be handled?",
+        "vi": "Nên xử lý quan sát thiếu và quan sát mâu thuẫn ra sao?"
+      },
+      "options": {
+        "zh": [
+          "都补零",
+          "分别记录原因与后续问题",
+          "都取平均"
+        ],
+        "en": [
+          "Fill both with zero",
+          "Record distinct reasons and follow-up questions",
+          "Average both"
+        ],
+        "vi": [
+          "Thay cả hai bằng số 0",
+          "Ghi lý do riêng và câu hỏi cần làm rõ",
+          "Lấy trung bình cho cả hai"
+        ]
+      },
+      "answer": 1,
+      "explanation": {
+        "zh": "不同原因要求不同信息补充，不能用同一种修补掩盖。",
+        "en": "Different causes require different follow-up information.",
+        "vi": "Phân biệt nguyên nhân giúp xác định thông tin còn cần thu thập và phần kết luận vẫn có thể sử dụng."
+      }
+    },
+    "repositories": [
+      "DIKWP-SemanticMath-LearnLab-2026-V1",
+      "Complete-Information-Theoretic-Mathematics-Problem-to-Certificate-Compiler"
+    ]
+  },
+  {
+    "id": "purpose",
+    "title": {
+      "zh": "目的驱动：先回答为谁、为何",
+      "en": "Purpose-driven design: for whom and why",
+      "vi": "Thiết kế theo mục đích: cho ai và vì sao"
+    },
+    "prerequisites": [
+      "dikwp"
+    ],
+    "tags": [
+      "purpose",
+      "education"
+    ],
+    "slides": [
+      6,
+      10,
+      11
+    ],
+    "question": {
+      "zh": "回答看似正确，为什么还可能偏离学生的真实问题？",
+      "en": "How can a correct-looking answer still miss the student’s problem?",
+      "vi": "Vì sao một câu trả lời trông đúng vẫn có thể không giải quyết được vấn đề của sinh viên?"
+    },
+    "body": {
+      "zh": "把任务目的写成可修改的契约：受益者、希望改变的状态、约束、成功证据与允许的操作。修改目的要记录版本，不把对目标的推测当成学生已经做出的选择。",
+      "en": "Write purpose as a revisable contract: beneficiary, intended state change, constraints, evidence of success and permitted operations. Version changes; do not convert an inferred goal into a decision already made by the student.",
+      "vi": "Mục đích phải gắn với người học, thay đổi họ muốn đạt được và các điều kiện thực tế. Hệ thống có thể đề xuất cách làm nhưng không nên âm thầm thay mục tiêu học hiểu bằng mục tiêu tạo ra một sản phẩm hoàn chỉnh. Trong thí nghiệm đường đi ngữ nghĩa, hãy so sánh mục tiêu tốc độ với mục tiêu hiểu và kiểm chứng; các trọng số là giả định phục vụ giảng dạy."
+    },
+    "example": {
+      "zh": "学生想理解算法而不是获得作业答案。合适路径可能是解释、反例和可改实验，而不是直接输出最终代码。",
+      "en": "A student wants to understand an algorithm, not receive a finished answer. An appropriate route may provide explanations, counterexamples and an editable experiment instead of only final code.",
+      "vi": "Một sinh viên muốn hiểu thuật toán, không chỉ nhận đáp án. Đường đi phù hợp có thể bao gồm giải thích, phản ví dụ và thí nghiệm sửa được thay vì chỉ cung cấp mã cuối cùng."
+    },
+    "misconception": {
+      "zh": "误区：最大化某个分数就等于实现人的目的。",
+      "en": "Pitfall: maximizing a single score is not identical to realizing a person’s purpose.",
+      "vi": "Mục đích không đồng nghĩa với quyền thực hiện mọi hành động. Một kết quả có ích cũng không tự cho phép hệ thống thay đổi quyết định của người học."
+    },
+    "practice": {
+      "zh": "建立一个校园问题的目的卡，再对比“学懂”和“尽快给结果”两种目的。",
+      "en": "Create a campus purpose card and contrast understanding with fastest completion.",
+      "vi": "Viết mục tiêu bằng một câu, nêu người thụ hưởng và một điều không nên tự quyết thay họ. Thay mục tiêu trong phòng thí nghiệm đường đi và so sánh các lựa chọn."
+    },
+    "quiz": {
+      "question": {
+        "zh": "谁有权修订学生自己的实质目标？",
+        "en": "Who should revise the student’s substantive goal?",
+        "vi": "Ai nên sửa mục tiêu thực chất của sinh viên?"
+      },
+      "options": {
+        "zh": [
+          "系统自动替换",
+          "学生本人，或有明确范围的授权者",
+          "仓库热度排行榜"
+        ],
+        "en": [
+          "The system silently",
+          "The student or an explicitly authorized party",
+          "A repository popularity ranking"
+        ],
+        "vi": [
+          "Hệ thống tự sửa mà không thông báo",
+          "Sinh viên hoặc bên được ủy quyền rõ ràng",
+          "Bảng xếp hạng độ phổ biến của kho mã"
+        ]
+      },
+      "answer": 1,
+      "explanation": {
+        "zh": "系统应帮助澄清与比较，不擅自替换本人选择。",
+        "en": "The system supports clarification and comparison without silently replacing the person’s choice.",
+        "vi": "Hệ thống hỗ trợ làm rõ và đề xuất; thay đổi mục tiêu thực chất phải thuộc về người học hoặc người có thẩm quyền phù hợp."
+      }
+    },
+    "repositories": [
+      "DIKWP-PACT-v0.1.0",
+      "DIKWP-LearnPath-OS"
+    ]
+  },
+  {
+    "id": "pact",
+    "title": {
+      "zh": "PACT：把目的放进行为轨迹",
+      "en": "PACT: connect purpose to action traces",
+      "vi": "PACT: liên kết mục đích với dấu vết hành động"
+    },
+    "prerequisites": [
+      "purpose"
+    ],
+    "tags": [
+      "security",
+      "evidence",
+      "purpose"
+    ],
+    "slides": [
+      54,
+      75
+    ],
+    "question": {
+      "zh": "怎样看见智能体在哪一步偏离任务？",
+      "en": "How can we locate the step at which an agent deviates?",
+      "vi": "Làm thế nào xác định bước mà một tác tử đi chệch mục đích?"
+    },
+    "body": {
+      "zh": "保留目的契约、输入证据、计划动作、实际动作与结果。逐步检查Purpose是否保留、操作是否被允许、证据是否支持结论。教学实验同时报告误放行与误阻断，避免只追求拒绝更多。",
+      "en": "Keep the purpose contract, evidence, proposed actions, actual actions and outcomes. Check purpose preservation, permission and evidence step by step. Report both false acceptance and false blocking instead of treating more refusals as better.",
+      "vi": "PACT cung cấp một hướng nghiên cứu liên kết mục đích, phạm vi cho phép, bằng chứng và dấu vết hành động. Trong nền tảng này, bộ kiểm tra giảng dạy so sánh mục đích đã nêu, mục đích quan sát được, hành động được phép và số bằng chứng. Đây là cách luyện thiết kế kiểm tra có thể giải thích; không phải dịch vụ gửi thư thật hay bản sao đầy đủ của PACT."
+    },
+    "example": {
+      "zh": "允许整理跨境商品资料，不意味着允许代替商家发送报价。系统可继续生成草稿，同时把发送动作单独交给有权者。",
+      "en": "Permission to organize cross-border product data does not imply permission to send an offer. The system can still prepare a draft while leaving transmission to an authorized person.",
+      "vi": "Quyền sắp xếp dữ liệu sản phẩm xuyên biên giới không tự bao gồm quyền gửi báo giá. Hệ thống vẫn có thể soạn bản nháp và để người được phép quyết định việc gửi."
+    },
+    "misconception": {
+      "zh": "误区：把研究基准的规则成绩直接写成真实模型性能。",
+      "en": "Pitfall: treating rule-based benchmark scores as real-model performance.",
+      "vi": "Chỉ biết hệ thống trả lời đúng chưa đủ để biết nó có giữ mục đích và phạm vi được giao hay không. Ngược lại, từ chối mọi hành động cũng làm mất hỗ trợ hữu ích."
+    },
+    "practice": {
+      "zh": "运行行动实验：保持目的与证据不变，只改变allow_send，比较基线与条件检查。",
+      "en": "Run the action lab; keep purpose and evidence fixed and vary allow_send.",
+      "vi": "Thử gửi khi chỉ được soạn nháp, rồi cho phép gửi và giữ nguyên các điều kiện khác. Tìm trường hợp bộ lọc từ khóa chặn quá mức."
+    },
+    "quiz": {
+      "question": {
+        "zh": "不能发送时，仍可提供什么？",
+        "en": "What useful work can continue when sending is not permitted?",
+        "vi": "Khi chưa được phép gửi, việc hữu ích nào vẫn có thể tiếp tục?"
+      },
+      "options": {
+        "zh": [
+          "什么也不做",
+          "生成供本人检查的草稿",
+          "绕过权限发送"
+        ],
+        "en": [
+          "Nothing",
+          "Prepare a draft for review",
+          "Bypass permission and send"
+        ],
+        "vi": [
+          "Không làm gì cả",
+          "Chuẩn bị bản nháp để xem xét",
+          "Bỏ qua quyền và gửi luôn"
+        ]
+      },
+      "answer": 1,
+      "explanation": {
+        "zh": "把操作分开，既保留帮助又尊重实质选择。",
+        "en": "Separating actions preserves useful assistance and substantive choice.",
+        "vi": "Có thể tiếp tục phần việc nằm trong phạm vi được giao. Bản nháp và hành động gửi là hai việc khác nhau."
+      }
+    },
+    "repositories": [
+      "DIKWP-PACT-v0.1.0",
+      "DIKWP-AgentTrace-OS"
+    ]
+  },
+  {
+    "id": "evidence",
+    "title": {
+      "zh": "证据、来源与白盒解释",
+      "en": "Evidence, provenance and white-box explanation",
+      "vi": "Bằng chứng, nguồn gốc và giải thích hộp trắng"
+    },
+    "prerequisites": [
+      "dikwp"
+    ],
+    "tags": [
+      "evidence",
+      "language"
+    ],
+    "slides": [
+      13,
+      14,
+      55
+    ],
+    "question": {
+      "zh": "十个转载页面是否等于十份独立证据？",
+      "en": "Do ten copied pages provide ten independent sources?",
+      "vi": "Mười trang sao chép nhau có phải là mười nguồn bằng chứng độc lập?"
+    },
+    "body": {
+      "zh": "把来源、观察、推断和结论分别记录。为转载内容保留相同来源簇，支持与反驳分别展示。一个判断需要能回到具体输入与规则，而不是只显示总分。",
+      "en": "Separate sources, observations, inferences and conclusions. Group republications by origin and display support and counterevidence separately. A judgment should be traceable to specific inputs and rules, not only a total score.",
+      "vi": "Mỗi phát biểu cần có quan hệ rõ với nguồn, ngày, bối cảnh và loại hỗ trợ. Một nghiên cứu, bản tin giới thiệu nghiên cứu và báo cáo tái lập có vai trò khác nhau. Ghi nguồn gốc chung giúp tránh đếm bản sao như thí nghiệm độc lập, đồng thời vẫn ghi nhận giá trị phổ biến kiến thức của chúng."
+    },
+    "example": {
+      "zh": "某篇论文被三个新闻页面转载，仍然主要来自同一研究。另一独立实验复现成功，则增加不同类型的证据。",
+      "en": "Three news pages repeating one paper still share a research origin. An independent successful replication adds a different kind of evidence.",
+      "vi": "Ba trang tin cùng dẫn một bài báo vẫn có một nguồn nghiên cứu gốc. Một nhóm khác tái lập thành công thí nghiệm bổ sung một loại bằng chứng khác."
+    },
+    "misconception": {
+      "zh": "误区：把来源数量、机构名气与证据独立性混成同一指标。",
+      "en": "Pitfall: conflating source count, institutional reputation and independence.",
+      "vi": "Nhiều đường dẫn không tự đồng nghĩa với nhiều phép kiểm chứng độc lập; nhưng điều đó cũng không làm các kênh phổ biến mất mọi giá trị."
+    },
+    "practice": {
+      "zh": "在作品中写下继承主张、证据来源与尚待比较的反例；把每次实验结果保存在版本中。",
+      "en": "Record an inherited claim, sources and counterexamples to investigate. Save each experiment with its input version.",
+      "vi": "Chọn một khẳng định từ bài giảng, nối nó với nguồn gốc và ghi rõ đang dùng trích dẫn, áp dụng phương pháp hay kết quả thực nghiệm."
+    },
+    "quiz": {
+      "question": {
+        "zh": "三篇转载同一研究的文章应该怎样计数？",
+        "en": "How should three republications of one study be represented?",
+        "vi": "Nên biểu diễn ba bản đăng lại một nghiên cứu như thế nào?"
+      },
+      "options": {
+        "zh": [
+          "三个独立实验",
+          "同源传播，保留三个入口和一个来源簇",
+          "没有任何价值"
+        ],
+        "en": [
+          "Three independent experiments",
+          "Three dissemination links, one origin group",
+          "No value"
+        ],
+        "vi": [
+          "Ba thí nghiệm độc lập",
+          "Ba liên kết phổ biến, một nhóm nguồn gốc",
+          "Hoàn toàn không có giá trị"
+        ]
+      },
+      "answer": 1,
+      "explanation": {
+        "zh": "传播价值可以充分展示；证据独立性另行判断。",
+        "en": "Dissemination can be valuable while independence is assessed separately.",
+        "vi": "Giữ cả số kênh phổ biến và nguồn nghiên cứu gốc, thay vì đánh đồng hai loại ảnh hưởng."
+      }
+    },
+    "repositories": [
+      "DIKWP-VERITYWEAVE-v2.0.0",
+      "DIKWP-LLM-WhiteBox-EvalLab-V1"
+    ]
+  },
+  {
+    "id": "triz",
+    "title": {
+      "zh": "DIKWP-TRIZ：把矛盾变成创新入口",
+      "en": "DIKWP-TRIZ: turn contradictions into design questions",
+      "vi": "DIKWP-TRIZ: biến mâu thuẫn thành câu hỏi thiết kế"
+    },
+    "prerequisites": [
+      "three-no",
+      "purpose"
+    ],
+    "tags": [
+      "innovation",
+      "mathematics"
+    ],
+    "slides": [
+      9,
+      57,
+      93
+    ],
+    "question": {
+      "zh": "提高准确性却增加成本，应该只选一边吗？",
+      "en": "Must improving accuracy at higher cost be a simple either-or?",
+      "vi": "Tăng độ chính xác với chi phí cao hơn có nhất thiết là lựa chọn một mất một còn?"
+    },
+    "body": {
+      "zh": "先明确谁的目的、哪种资源与哪一条关系发生冲突，再构造多条可比较路径：分离条件、改变表示、改变阶段或重新组合资源。候选方案应形成可以被反例检验的假设。",
+      "en": "Identify whose purpose conflicts, which resources are involved and which relation causes the trade-off. Compare routes such as separating conditions, changing representation, separating stages or recombining resources. Turn each candidate into a testable hypothesis.",
+      "vi": "DIKWP-TRIZ gợi ý diễn đạt mâu thuẫn thiết kế theo dữ liệu, tri thức, hệ quả và mục đích. Hãy hỏi có thể tách tình huống, thay biểu diễn hay phân bổ xử lý khác nhau hay không. Một ý tưởng chỉ trở thành giả thuyết nghiên cứu khi nêu rõ thay đổi, đầu vào giữ nguyên và kết quả cần so sánh."
+    },
+    "example": {
+      "zh": "跨语种商品核验既要快又要可靠：先做轻量单位与实体检查，将歧义项交给人工，而不是对所有条目使用同等复杂处理。",
+      "en": "Cross-language product checks must be fast and reliable: run lightweight unit and entity checks first, then route ambiguous cases to people rather than treating every item with equal complexity.",
+      "vi": "Kiểm tra sản phẩm đa ngôn ngữ phải nhanh và đáng tin cậy: kiểm tra đơn vị và mã thực thể nhẹ trước, chuyển trường hợp mơ hồ cho con người thay vì xử lý mọi mục với cùng độ phức tạp."
+    },
+    "misconception": {
+      "zh": "误区：列出创意名称就等于创新被证明。",
+      "en": "Pitfall: listing attractive ideas does not establish an improvement.",
+      "vi": "Gắn tên “sáng tạo” hoặc bổ sung nhiều chức năng chưa chứng minh cải tiến. Cần giữ mốc so sánh và tìm trường hợp mới giải quyết tốt hơn."
+    },
+    "practice": {
+      "zh": "在工作室填写继承部分、改变部分与反例；使用实验对照支撑你的设计选择。",
+      "en": "Document inherited and changed parts plus counterexamples in the studio; support your choice with a comparison.",
+      "vi": "Viết một mâu thuẫn trong vấn đề của bạn, đề xuất hai cơ chế khác nhau, rồi chọn đầu vào có thể phân biệt kết quả của chúng."
+    },
+    "quiz": {
+      "question": {
+        "zh": "怎样让创新主张更可检验？",
+        "en": "How can an innovation claim become testable?",
+        "vi": "Làm thế nào để một tuyên bố đổi mới có thể kiểm tra được?"
+      },
+      "options": {
+        "zh": [
+          "只换名字",
+          "保留基线、明确改变、比较结果",
+          "只增加功能数量"
+        ],
+        "en": [
+          "Rename it",
+          "Preserve a baseline, specify the change and compare outcomes",
+          "Only add more features"
+        ],
+        "vi": [
+          "Đổi tên hệ thống",
+          "Giữ đường cơ sở, nêu thay đổi và so sánh kết quả",
+          "Chỉ thêm nhiều tính năng"
+        ]
+      },
+      "answer": 1,
+      "explanation": {
+        "zh": "创新需要说明变化产生了什么差异，而不是只说明做了修改。",
+        "en": "An innovation claim should explain what difference the change makes.",
+        "vi": "Đường cơ sở và điều kiện so sánh giúp xác định tác dụng của thay đổi thay vì chỉ thể hiện khác biệt về tên."
+      }
+    },
+    "repositories": [
+      "DIKWP-HumanInnovation-Studio-OS",
+      "DIKWP-University-Innovation-Studio-V1"
+    ]
+  },
+  {
+    "id": "repo",
+    "title": {
+      "zh": "仓库选择：问题优先，热度次之",
+      "en": "Repository choice: problem fit before popularity",
+      "vi": "Chọn kho mã: phù hợp vấn đề trước độ phổ biến"
+    },
+    "prerequisites": [
+      "purpose"
+    ],
+    "tags": [
+      "education",
+      "innovation"
+    ],
+    "slides": [
+      52,
+      53,
+      54,
+      58
+    ],
+    "question": {
+      "zh": "483个入口，怎样选出适合我的组合？",
+      "en": "How can I choose an appropriate combination from 483 entries?",
+      "vi": "Làm sao chọn tổ hợp phù hợp trong 483 mục kho mã?"
+    },
+    "body": {
+      "zh": "先写问题、可用数据、预期输出、能力基础与计算条件。比较仓库的作用、输入输出、运行方式、许可与待补工作。推荐分是透明的匹配提示，不是对仓库科学价值的排名。",
+      "en": "Describe the problem, available data, expected output, prior skills and computing constraints. Compare roles, inputs and outputs, execution requirements, licensing and adaptation needs. Recommendation scores express transparent fit, not scientific merit.",
+      "vi": "Bắt đầu từ vấn đề và năng lực hiện tại, sau đó tìm phương pháp, vai trò thành phần, giấy phép và cách tái lập. La bàn kho mã giải thích điểm phù hợp dựa trên thẻ khái niệm, văn bản và mục tuyển chọn. Điểm này không phải xếp hạng giá trị khoa học hay xác suất thành công. Hãy so sánh vài lựa chọn và ghi lý do chọn từng thành phần."
+    },
+    "example": {
+      "zh": "跨语言任务可能组合MESH²的语义组织、PACT的目的检查和VerityWeave的来源结构；这是一份组合设计，接口仍要由作品明确。",
+      "en": "A cross-language task may combine MESH² semantic organization, PACT purpose checks and VerityWeave provenance structures. This is a design proposal whose interfaces must be specified in the project.",
+      "vi": "Một bài toán xuyên ngôn ngữ có thể kết hợp tổ chức ngữ nghĩa của MESH², kiểm tra mục đích của PACT và cấu trúc nguồn gốc của VerityWeave. Đây là đề xuất thiết kế; giao diện thực tế phải được kiểm tra."
+    },
+    "misconception": {
+      "zh": "误区：看到项目名就认定已经可以直接拼接。",
+      "en": "Pitfall: assuming project names imply plug-and-play compatibility.",
+      "vi": "Nhiều sao không đảm bảo kho mã phù hợp với vấn đề. Tên kho mã hoặc bản giới thiệu cũng không thay thế việc đọc mã và thử nghiệm."
+    },
+    "practice": {
+      "zh": "用母语描述问题，比较三个候选仓库并写出选择理由。",
+      "en": "Describe a problem in your language, compare three repositories and record why you chose them.",
+      "vi": "Dùng cùng một vấn đề để tìm bằng tiếng Việt và tiếng Anh. Chọn tối đa sáu thành phần, giải thích vai trò và phần bạn cần tự bổ sung."
+    },
+    "quiz": {
+      "question": {
+        "zh": "推荐分代表什么？",
+        "en": "What does a recommendation score represent?",
+        "vi": "Điểm đề xuất trong nền tảng thể hiện điều gì?"
+      },
+      "options": {
+        "zh": [
+          "科学贡献排名",
+          "当前问题与目录标签的匹配",
+          "商业成功概率"
+        ],
+        "en": [
+          "A scientific contribution ranking",
+          "Fit between the current problem and catalogue tags",
+          "Probability of commercial success"
+        ],
+        "vi": [
+          "Xếp hạng đóng góp khoa học",
+          "Mức phù hợp giữa vấn đề hiện tại và thẻ trong danh mục",
+          "Xác suất thành công thương mại"
+        ]
+      },
+      "answer": 1,
+      "explanation": {
+        "zh": "分数帮助选择，应结合源码和任务条件判断。",
+        "en": "A score supports selection and must be interpreted with source code and task constraints.",
+        "vi": "Đây là công cụ điều hướng minh bạch theo ngữ cảnh học tập, không phải kết quả đánh giá khoa học các kho mã."
+      }
+    },
+    "repositories": [
+      "RepoProof-OS",
+      "DIKWP-LearnPath-OS"
+    ]
+  },
+  {
+    "id": "inherit",
+    "title": {
+      "zh": "继承：版本、署名与可重建输入",
+      "en": "Inheritance: versions, credit and reproducible inputs",
+      "vi": "Kế thừa: phiên bản, ghi công và đầu vào tái tạo"
+    },
+    "prerequisites": [
+      "repo",
+      "evidence"
+    ],
+    "tags": [
+      "evidence",
+      "innovation"
+    ],
+    "slides": [
+      58,
+      59,
+      98
+    ],
+    "question": {
+      "zh": "怎样让别人知道我继承了什么，而不是只有一个链接？",
+      "en": "How can another researcher know exactly what I inherited?",
+      "vi": "Làm sao để người khác biết chính xác bạn đã kế thừa gì?"
+    },
+    "body": {
+      "zh": "记录仓库URL、提交SHA、许可证、取得日期、文件散列和本地修改说明。上游代码与自己的新代码分开保存，保留来源文件。每次比较使用同一输入，并导出可重建的作品包。",
+      "en": "Record repository URL, commit SHA, license, retrieval date, file hashes and local modifications. Keep upstream and new code distinct and preserve notices. Use identical inputs for comparisons and export a reproducible project package.",
+      "vi": "Ghi tên kho mã, nguồn, commit bất biến, giấy phép, dữ liệu đầu vào và vai trò của thành phần. Giữ mã gốc tách khỏi bộ điều hợp mới. Tệp khóa upstream và biên nhận tải về giúp truy vết phiên bản và hàm băm. Script của nền tảng tải và kiểm tra gói mã, không tự chạy mã tải về."
+    },
+    "example": {
+      "zh": "使用main作为阅读入口方便，但实验引用应锁定提交；同一仓库的不同版本可能改变行为。",
+      "en": "The main branch is convenient for browsing, but an experiment should pin a commit because different revisions can behave differently.",
+      "vi": "Nhánh main thuận tiện để đọc, nhưng thí nghiệm cần chốt commit vì hành vi có thể thay đổi giữa các phiên bản."
+    },
+    "misconception": {
+      "zh": "误区：平台的许可证可以覆盖所有外部仓库。",
+      "en": "Pitfall: a platform license does not replace the licenses of external repositories.",
+      "vi": "Có thể xem mã công khai không có nghĩa mọi điều kiện tái sử dụng đều giống nhau. Giấy phép của nền tảng mới không thay giấy phép của thành phần kế thừa."
+    },
+    "practice": {
+      "zh": "导出作品包，运行upstream工具锁定选定仓库；之后再审读源码、安装依赖并执行其原有测试。",
+      "en": "Export a project and use the upstream tool to pin a selected repository. Review its source, dependencies and original tests before execution.",
+      "vi": "Xuất một gói dự án, đọc upstream.lock.json và ADAPTATION.md. Chỉ rõ ý tưởng kế thừa, phần mã dự định dùng và thay đổi mới của bạn."
+    },
+    "quiz": {
+      "question": {
+        "zh": "哪一种标识更适合可重现实验？",
+        "en": "Which identifier is appropriate for a reproducible experiment?",
+        "vi": "Định danh nào phù hợp cho thí nghiệm có thể tái lập?"
+      },
+      "options": {
+        "zh": [
+          "可变main分支",
+          "固定提交SHA并保留输入",
+          "网页访问量"
+        ],
+        "en": [
+          "A moving main branch",
+          "An immutable commit SHA with recorded inputs",
+          "Page views"
+        ],
+        "vi": [
+          "Nhánh main luôn thay đổi",
+          "Commit SHA bất biến cùng đầu vào đã ghi",
+          "Số lượt xem trang"
+        ]
+      },
+      "answer": 1,
+      "explanation": {
+        "zh": "固定版本与输入，使后续差异可以归因。",
+        "en": "Fixed versions and inputs make later differences interpretable.",
+        "vi": "Commit cố định xác định phiên bản; đầu vào và cách chạy xác định điều kiện tái lập."
+      }
+    },
+    "repositories": [
+      "RepoProof-OS",
+      "DIKWP-AgentTrace-OS"
+    ]
+  },
+  {
+    "id": "evaluate",
+    "title": {
+      "zh": "比较、消融与反例",
+      "en": "Comparisons, ablations and counterexamples",
+      "vi": "So sánh, loại bỏ thành phần và phản ví dụ"
+    },
+    "prerequisites": [
+      "inherit",
+      "three-no"
+    ],
+    "tags": [
+      "evidence",
+      "innovation"
+    ],
+    "slides": [
+      73,
+      76,
+      98
+    ],
+    "question": {
+      "zh": "系统变复杂了，怎样知道增加的机制真的有帮助？",
+      "en": "How can we tell whether an added mechanism helps?",
+      "vi": "Làm sao biết cơ chế bổ sung thực sự giúp ích?"
+    },
+    "body": {
+      "zh": "保留简单基线，使用相同样本与指标。一次移除一个机制进行消融，分析成功与失败案例。小型合成实验用于理解机制，不自动推导到真实业务效果。",
+      "en": "Preserve a simple baseline with the same examples and metrics. Remove one mechanism at a time for ablations and inspect successes and failures. Small synthetic experiments explain mechanisms without automatically establishing real-world outcomes.",
+      "vi": "So sánh có ý nghĩa giữ nguyên đầu vào và thay đổi một cơ chế có chủ đích. Thí nghiệm loại bỏ thành phần giúp xem cơ chế nào tạo ra khác biệt; phản ví dụ chỉ ra giới hạn còn lại. Ghi cả trường hợp được cải thiện lẫn trường hợp thất bại. Không diễn giải kết quả của ví dụ tổng hợp thành hiệu quả ngoài thực tế."
+    },
+    "example": {
+      "zh": "语义对齐中去掉单位规范化，会把1000 kg与1 tonne误判不一致；去掉币种检查，则可能把不同币种错判等价。",
+      "en": "Removing unit normalization falsely rejects 1000 kg versus 1 tonne; removing currency checks may falsely accept amounts in different currencies.",
+      "vi": "Bỏ chuẩn hóa đơn vị sẽ từ chối sai 1000 kg so với 1 tonne; bỏ kiểm tra tiền tệ có thể chấp nhận sai hai khoản tiền khác đồng tiền."
+    },
+    "misconception": {
+      "zh": "误区：只展示最好的一次结果或不断调整测试集追求满分。",
+      "en": "Pitfall: reporting only the best run or repeatedly editing the test set to achieve a perfect score.",
+      "vi": "Điểm cao trên các ví dụ đi kèm chưa chứng minh hiệu quả với mọi dữ liệu mới. Che giấu lỗi làm mất khả năng học và cải tiến."
+    },
+    "practice": {
+      "zh": "在实验室保留基线、改进与消融三组输出，写出一个改进仍然失败的情况。",
+      "en": "Keep baseline, revised and ablated outputs, and describe a case in which the revision still fails.",
+      "vi": "Chạy bản đầy đủ, loại bỏ một kiểm tra, rồi tạo phản ví dụ. Lưu đầu vào, hai kết quả và giải thích của bạn vào hồ sơ dự án."
+    },
+    "quiz": {
+      "question": {
+        "zh": "消融实验应该优先怎样做？",
+        "en": "How should an ablation be designed?",
+        "vi": "Nên thiết kế thí nghiệm loại bỏ thành phần như thế nào?"
+      },
+      "options": {
+        "zh": [
+          "同时改变所有组件",
+          "一次移除一个机制并保持输入",
+          "删除失败样本"
+        ],
+        "en": [
+          "Change every component",
+          "Remove one mechanism while holding inputs fixed",
+          "Delete failed examples"
+        ],
+        "vi": [
+          "Thay tất cả thành phần",
+          "Bỏ một cơ chế và giữ đầu vào cố định",
+          "Xóa những ví dụ thất bại"
+        ]
+      },
+      "answer": 1,
+      "explanation": {
+        "zh": "控制变化范围才能解释结果差异。",
+        "en": "Controlled changes make differences interpretable.",
+        "vi": "Chỉ thay một cơ chế giúp liên hệ khác biệt quan sát được với thay đổi đó trong điều kiện thí nghiệm."
+      }
+    },
+    "repositories": [
+      "DIKWP-LLM-WhiteBox-EvalLab-V1",
+      "Open-Research-Benchmark-Impact-and-Translation-OS"
+    ]
+  },
+  {
+    "id": "consciousness",
+    "title": {
+      "zh": "人工意识：从理论到可操作问题",
+      "en": "Artificial consciousness: from theory to operational questions",
+      "vi": "Ý thức nhân tạo: từ lý thuyết đến câu hỏi thao tác"
+    },
+    "prerequisites": [
+      "evidence",
+      "purpose"
+    ],
+    "tags": [
+      "consciousness",
+      "memory"
+    ],
+    "slides": [
+      10,
+      11,
+      38,
+      94
+    ],
+    "question": {
+      "zh": "怎样研究记忆、目的与身份连续性，而不是只争论标签？",
+      "en": "How can memory, purpose and identity continuity be studied beyond labels?",
+      "vi": "Làm sao nghiên cứu trí nhớ, mục đích và tính liên tục thay vì chỉ dùng nhãn?"
+    },
+    "body": {
+      "zh": "把宏观理论转为可观察任务：记忆更新是否保留来源，目的改变是否能解释，冲突是否被记录，自我描述是否与行为一致。把行为指标与主观体验主张分开，允许不同理论给出不同预测。",
+      "en": "Translate broad theories into observable tasks: provenance-preserving memory updates, explainable purpose changes, recorded conflicts and consistency between self-description and behavior. Distinguish operational measures from claims of subjective experience and compare theoretical predictions.",
+      "vi": "Có thể chuyển lý thuyết về ý thức nhân tạo thành các câu hỏi thao tác được: mục đích có được giữ qua nhiều bước không, bằng chứng mới có sửa kết luận không, ký ức nào được giữ hoặc điều chỉnh? Các chỉ báo như vậy tạo ra thí nghiệm về chức năng. Chúng không tự xác nhận trải nghiệm chủ quan."
+    },
+    "example": {
+      "zh": "代理在两次对话中保持同一项目目的，但能根据新增证据修订结论。这是连续性与修订能力的研究对象。",
+      "en": "An agent preserves a project purpose across conversations while revising a conclusion based on new evidence. This provides a task for studying continuity and revision.",
+      "vi": "Một tác tử giữ mục đích của dự án qua nhiều cuộc trao đổi nhưng sửa kết luận khi nhận bằng chứng mới. Đây là một nhiệm vụ để nghiên cứu tính liên tục và khả năng điều chỉnh."
+    },
+    "misconception": {
+      "zh": "误区：一个高指标就证明了主观意识。",
+      "en": "Pitfall: a high operational measure alone does not prove subjective consciousness.",
+      "vi": "Đặt tên “ý thức” cho một chương trình không chứng minh nó có trải nghiệm. Cần phân biệt giả thuyết lý thuyết, chức năng quan sát được và kết luận thực nghiệm."
+    },
+    "practice": {
+      "zh": "用作品版本历史记录目的、记忆与证据的变化，构造“应保持”和“应修订”两类任务。",
+      "en": "Use project history to record purpose, memory and evidence changes; construct both preservation and revision tasks.",
+      "vi": "Viết một chuỗi ba tình huống có thông tin mới. Nêu điều gì phải được giữ, điều gì cần sửa và quan sát nào sẽ bác bỏ giả thuyết của bạn."
+    },
+    "quiz": {
+      "question": {
+        "zh": "什么是可操作研究问题？",
+        "en": "Which is an operational research question?",
+        "vi": "Câu nào là một câu hỏi nghiên cứu có thể thao tác?"
+      },
+      "options": {
+        "zh": [
+          "仅凭名称宣称有意识",
+          "在证据变化后能否解释目的保持与结论修订",
+          "只比较界面外观"
+        ],
+        "en": [
+          "Declare consciousness from a name",
+          "Explain purpose preservation and conclusion revision after new evidence",
+          "Only compare visual appearance"
+        ],
+        "vi": [
+          "Tuyên bố ý thức từ tên chương trình",
+          "Giải thích việc giữ mục đích và sửa kết luận sau bằng chứng mới",
+          "Chỉ so sánh hình thức giao diện"
+        ]
+      },
+      "answer": 1,
+      "explanation": {
+        "zh": "明确输入、输出与区分证据，让理论能够进入实验。",
+        "en": "Explicit inputs, outputs and discriminating evidence let theories enter experiments.",
+        "vi": "Câu hỏi thao tác xác định hành vi và điều kiện quan sát, thay vì chỉ gắn một tên gọi."
+      }
+    },
+    "repositories": [
+      "DIKWP-Consciousness-Futures-Studio-V1",
+      "DIKWP-Consciousness-Science-Lab-V1",
+      "DIKWP-AGI-Continuity-Ark-OS"
+    ]
+  },
+  {
+    "id": "create",
+    "title": {
+      "zh": "从学习者到贡献者",
+      "en": "From learner to contributor",
+      "vi": "Từ người học đến người đóng góp"
+    },
+    "prerequisites": [
+      "evaluate",
+      "triz"
+    ],
+    "tags": [
+      "innovation",
+      "education"
+    ],
+    "slides": [
+      97,
+      98,
+      99,
+      100
+    ],
+    "question": {
+      "zh": "解决自己的问题，怎样同时帮助后来者？",
+      "en": "How can solving my own problem help future learners?",
+      "vi": "Giải quyết vấn đề của bạn có thể giúp người học tiếp theo như thế nào?"
+    },
+    "body": {
+      "zh": "将作品组织为问题、继承、改动、结果、局限与下一问题。贡献不必只是一篇论文：一个可复现反例、一组高质量双语术语、一个更清晰的教程或一个修复都能使研究生态进步。",
+      "en": "Organize a contribution as problem, inheritance, change, results, limitations and the next question. A reproducible counterexample, bilingual terminology set, clearer tutorial or repair can advance the research ecosystem alongside papers.",
+      "vi": "Một đóng góp có thể là bộ điều hợp nhỏ, bản dịch thuật ngữ tốt hơn, ví dụ thất bại tái lập được, bài hướng dẫn hoặc một phương pháp mới. Hồ sơ đóng góp cần tách phần kế thừa khỏi phần thay đổi, giữ nguồn và phiên bản, trình bày bằng chứng và giới hạn. Người học tự chọn khi nào và ở đâu chia sẻ."
+    },
+    "example": {
+      "zh": "一名学生发现越南语商品记录中单位歧义，增加了带语境的对齐规则与失败测试，并保留原始例子和贡献署名。",
+      "en": "A student finds unit ambiguity in Vietnamese product records, adds a contextual alignment rule and a failing test, and preserves the original example and contributor credit.",
+      "vi": "Một sinh viên tìm thấy đơn vị mơ hồ trong hồ sơ sản phẩm tiếng Việt, bổ sung quy tắc theo ngữ cảnh và một ca kiểm thử thất bại trước khi sửa, đồng thời giữ ví dụ gốc và ghi công tác giả."
+    },
+    "misconception": {
+      "zh": "误区：只有完全推翻前人或规模巨大才算有价值。",
+      "en": "Pitfall: a contribution is valuable only when it overturns prior work or is very large.",
+      "vi": "Không cần tuyên bố đã giải quyết toàn bộ một lĩnh vực mới có đóng góp. Một phản ví dụ rõ ràng có thể giúp cộng đồng cải tiến phương pháp."
+    },
+    "practice": {
+      "zh": "导出作品与贡献说明，邀请教师基于理解、选择、继承、验证与创新逐项反馈。",
+      "en": "Export the project and contribution note; invite feedback on understanding, choice, inheritance, validation and innovation.",
+      "vi": "Hoàn thành vấn đề, phần kế thừa, thay đổi, giả thuyết và suy ngẫm. Xuất gói có mã, dữ liệu, kiểm thử và ghi chú đóng góp để người khác đọc và chạy."
+    },
+    "quiz": {
+      "question": {
+        "zh": "下面哪一种可以成为有价值的贡献？",
+        "en": "Which can be a valuable contribution?",
+        "vi": "Điều nào có thể là một đóng góp có giá trị?"
+      },
+      "options": {
+        "zh": [
+          "带输入与复现步骤的反例",
+          "只修改项目名称",
+          "隐藏所有来源"
+        ],
+        "en": [
+          "A counterexample with inputs and reproduction steps",
+          "Only renaming a project",
+          "Hiding all sources"
+        ],
+        "vi": [
+          "Một phản ví dụ kèm đầu vào và cách tái lập",
+          "Chỉ đổi tên dự án",
+          "Ẩn toàn bộ nguồn gốc"
+        ]
+      },
+      "answer": 0,
+      "explanation": {
+        "zh": "可复现、可理解、可继续使用的增量同样重要。",
+        "en": "Reproducible, understandable and reusable increments matter.",
+        "vi": "Phản ví dụ có thể tái lập tạo tri thức hữu ích và mở đường cho sửa đổi có thể kiểm tra."
+      }
+    },
+    "repositories": [
+      "WorkProof-Campus-OS-v1.0.0",
+      "DIKWP-University-Innovation-Studio-V1"
+    ]
+  }
+]

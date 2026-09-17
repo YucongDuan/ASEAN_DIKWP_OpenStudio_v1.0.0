@@ -1,0 +1,145 @@
+[
+  {
+    "id": "trade",
+    "title": {
+      "zh": "中越跨境商品语义核验",
+      "en": "Cross-border product meaning checks",
+      "vi": "Kiểm tra ngữ nghĩa hàng hóa xuyên biên giới"
+    },
+    "problem": {
+      "zh": "比较中文和越南语商品资料中的重量、币种、实体与交易目的，发现误解并保留证据。",
+      "en": "Compare quantities, currency, entity identity and purpose in Chinese and Vietnamese product records.",
+      "vi": "So sánh khối lượng, tiền tệ, định danh và mục đích trong hồ sơ sản phẩm tiếng Trung và tiếng Việt."
+    },
+    "tags": [
+      "language",
+      "evidence",
+      "economy",
+      "purpose"
+    ],
+    "lab": "alignment",
+    "repos": [
+      "DIKWP-MESH-",
+      "DIKWP-PACT-v0.1.0",
+      "DIKWP-VERITYWEAVE-v2.0.0"
+    ]
+  },
+  {
+    "id": "learning",
+    "title": {
+      "zh": "能解释选择理由的学习伙伴",
+      "en": "A learning partner that explains choices",
+      "vi": "Bạn học giải thích lựa chọn"
+    },
+    "problem": {
+      "zh": "帮助不同语言背景的学生理解DIKWP并选择匹配基础与目标的学习资源。",
+      "en": "Help students with different language backgrounds understand DIKWP and choose resources that match their goals.",
+      "vi": "Giúp sinh viên nhiều ngôn ngữ hiểu DIKWP và chọn tài nguyên phù hợp mục tiêu."
+    },
+    "tags": [
+      "education",
+      "purpose",
+      "language"
+    ],
+    "lab": "purpose",
+    "repos": [
+      "DIKWP-LearnPath-OS",
+      "EduWeave-Global-Personalized-Education-OS",
+      "DIKWP-Algorithm-LearnLab-V1"
+    ]
+  },
+  {
+    "id": "coldchain",
+    "title": {
+      "zh": "农业冷链的3-No观测分析",
+      "en": "3-No analysis of agricultural cold chains",
+      "vi": "Phân tích 3-No trong chuỗi lạnh nông sản"
+    },
+    "problem": {
+      "zh": "在温度观测缺失、区间不精确或多传感器冲突时，解释可以判断什么、还需补充什么。",
+      "en": "Explain what can be concluded when temperature observations are missing, interval-valued or inconsistent.",
+      "vi": "Giải thích kết luận khi nhiệt độ bị thiếu, theo khoảng hoặc mâu thuẫn."
+    },
+    "tags": [
+      "industry",
+      "evidence",
+      "mathematics"
+    ],
+    "lab": "three-no",
+    "repos": [
+      "DIKWP-MESH-",
+      "DIKWP-SemanticMath-LearnLab-2026-V1",
+      "DIKWP-VERITYWEAVE-v2.0.0"
+    ]
+  },
+  {
+    "id": "agent",
+    "title": {
+      "zh": "校园智能体：有帮助，也有目的",
+      "en": "Campus agents: helpful and purpose-aware",
+      "vi": "Tác tử trong trường: hữu ích và có mục đích"
+    },
+    "problem": {
+      "zh": "智能体能够整理资料并生成草稿，发送与公开发布须符合本人所给范围。",
+      "en": "An agent organizes information and prepares drafts while respecting the stated scope for sending and publishing.",
+      "vi": "Tác tử sắp xếp tài liệu, tạo bản nháp và tôn trọng phạm vi gửi hoặc công bố."
+    },
+    "tags": [
+      "purpose",
+      "evidence",
+      "security"
+    ],
+    "lab": "action",
+    "repos": [
+      "DIKWP-PACT-v0.1.0",
+      "DIKWP-AgentTrace-OS"
+    ]
+  },
+  {
+    "id": "math",
+    "title": {
+      "zh": "语义数学与可检验的创新假设",
+      "en": "Semantic mathematics and testable innovation",
+      "vi": "Toán học ngữ nghĩa và giả thuyết đổi mới"
+    },
+    "problem": {
+      "zh": "把不完备、不一致、不精确分开建模，用反例与对照评价新的处理方法。",
+      "en": "Model incompleteness, inconsistency and imprecision separately and evaluate changes with controlled comparisons.",
+      "vi": "Mô hình hóa sự thiếu, mâu thuẫn và không chính xác rồi đánh giá bằng so sánh."
+    },
+    "tags": [
+      "mathematics",
+      "innovation",
+      "evidence"
+    ],
+    "lab": "three-no",
+    "repos": [
+      "DIKWP-SemanticMath-LearnLab-2026-V1",
+      "Complete-Information-Theoretic-Mathematics-Problem-to-Certificate-Compiler"
+    ]
+  },
+  {
+    "id": "memory",
+    "title": {
+      "zh": "长期研究伙伴的记忆与修订",
+      "en": "Memory and revision in a research companion",
+      "vi": "Trí nhớ và sửa đổi của bạn đồng hành nghiên cứu"
+    },
+    "problem": {
+      "zh": "研究伙伴保留项目目的和证据来源，又能对新证据解释性地修订结论。",
+      "en": "A research companion preserves project purpose and sources while explaining revisions prompted by new evidence.",
+      "vi": "Bạn đồng hành giữ mục đích và nguồn trong khi giải thích sửa đổi theo bằng chứng mới."
+    },
+    "tags": [
+      "memory",
+      "consciousness",
+      "purpose",
+      "evidence"
+    ],
+    "lab": "purpose",
+    "repos": [
+      "DIKWP-AGI-Continuity-Ark-OS",
+      "DIKWP-Consciousness-Futures-Studio-V1"
+    ]
+  }
+]

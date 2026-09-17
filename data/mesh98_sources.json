@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "E01",
+    "title": "海南大学：DIKW图谱化研究与吴文俊人工智能奖记录",
+    "url": "https://en.hainanu.edu.cn/info/1151/2981.htm",
+    "kind": "高校官方报道",
+    "position": "DIKW graphical extension and modelling；2020年奖项",
+    "date": "2023",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E02",
+    "title": "浦发银行｜CN119917594A｜供应链金融业务的数据处理方法、装置、设备及存储介质",
+    "url": "https://patents.google.com/patent/CN119917594A/zh",
+    "kind": "Purpose-DIKWP专利方法",
+    "position": "摘要；发明内容；步骤202—204；DIKWP定义",
+    "date": "2025-05-02",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E03",
+    "title": "平安国际融资租赁｜CN120688465A｜文本自动填充方法及装置、存储介质、计算机设备",
+    "url": "https://patents.google.com/patent/CN120688465A/zh",
+    "kind": "Purpose-DIKWP专利技术描述",
+    "position": "说明书：DIKWP语义数学模型及关键词识别",
+    "date": "2025-09-23",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E04",
+    "title": "广东电网、东莞供电局｜CN116582360A｜网络安全评估方法、装置、设备及存储介质",
+    "url": "https://patents.google.com/patent/CN116582360A/zh",
+    "kind": "Purpose-DIKWP专利方法",
+    "position": "终端/接入点DIKWP模型；服务器DIKW模型；意图图",
+    "date": "",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E05",
+    "title": "海南电网文昌供电局｜CN116881772B｜基于配电网的台区用电用户类型分类方法",
+    "url": "https://patents.google.com/patent/CN116881772B/zh",
+    "kind": "Purpose-DIKWP专利方法",
+    "position": "发明内容及S1—S3；居民/商业/灌溉/养殖用户模型",
+    "date": "2024-10-29",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E06",
+    "title": "上海宇航系统工程研究所等｜CN121585225A｜卫星间基于大语言模型的自然语义通讯方法及系统",
+    "url": "https://patents.google.com/patent/CN121585225A/zh",
+    "kind": "Purpose-DIKWP专利方法",
+    "position": "上海霄垣创新中心与上海宇航系统工程研究所；DIKWP语义熵与任务拆分见说明书S1/S13",
+    "date": "2026-02-27",
+    "checked": "2026-09-16",
+    "status": "原始公开说明书重新读取"
+  },
+  {
+    "id": "E07",
+    "title": "安徽卓越亿嘉信息科技｜CN121615796A｜基于语义空间的人工意识可信交互控制方法",
+    "url": "https://patents.google.com/patent/CN121615796A/zh",
+    "kind": "企业DIKWP专利公开",
+    "position": "摘要S101—S103；五维安全结构、四空间与3No检测",
+    "date": "2026-03-06",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E08",
+    "title": "广州捷风网络科技｜CN117198465B｜中西医营养健康量化咨询方法及系统",
+    "url": "https://patents.google.com/patent/CN117198465B/zh",
+    "kind": "Purpose-DIKWP专利方法",
+    "position": "摘要；步骤S3—S5；用户DIKWP模型与需求/偏好",
+    "date": "",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E09",
+    "title": "世窗信息｜CN121148586A｜基于领域知识的免疫规划信息智能查询决策方法及系统",
+    "url": "https://patents.google.com/patent/CN121148586A/zh",
+    "kind": "后续专利引用与技术响应",
+    "position": "背景技术直接讨论CN113643785A及其单一DIKW图谱局限",
+    "date": "",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E10",
+    "title": "华为｜EP4163831A1｜Neural network distillation method and device",
+    "url": "https://patents.google.com/patent/EP4163831A1/en",
+    "kind": "DIKW近邻专利",
+    "position": "说明书Fig.1附近：intelligent information chain与data-information-knowledge-wisdom",
+    "date": "",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E11",
+    "title": "InvenSense｜US10652354B2｜Method and system for generating exchangeable user profiles",
+    "url": "https://patents.google.com/patent/US10652354B2/en",
+    "kind": "DIKW近邻专利",
+    "position": "S-DIKW pyramid；用户画像与可交换价值",
+    "date": "",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E12",
+    "title": "阿里云｜Data Agent for Analytics公开技术文章",
+    "url": "https://developer.aliyun.com/article/1686127",
+    "kind": "企业官方技术实践/结构对照",
+    "position": "意图澄清、角色语境、长期记忆、结构化意图执行计划",
+    "date": "",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E13",
+    "title": "AWS｜Semantic Layer for Agentic AI: Orchestration",
+    "url": "https://docs.aws.amazon.com/prescriptive-guidance/latest/semantic-layer-agentic-ai-ontology-reasoning-virtual-knowledge-graph/orchestration.html",
+    "kind": "官方参考架构/结构对照",
+    "position": "intent-driven orchestration、execution planning、reasoning、provenance",
+    "date": "",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E14",
+    "title": "AWS｜Semantic Layer for Agentic AI: Introduction",
+    "url": "https://docs.aws.amazon.com/prescriptive-guidance/latest/semantic-layer-agentic-ai-ontology-reasoning-virtual-knowledge-graph/introduction.html",
+    "kind": "官方架构索引",
+    "position": "DIKW启发的层次；扩展为Intelligence而非命名Purpose",
+    "date": "2026-07-24",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E15",
+    "title": "NEC｜dotData：数据挖掘与DIKW模型",
+    "url": "https://jpn.nec.com/solution/dotdata/tips/data-mining/index.html",
+    "kind": "企业官方DIKW解释",
+    "position": "DIKW四层模型及从数据挖掘到业务判断",
+    "date": "",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E16",
+    "title": "Cisco Outshift｜The Tacit Knowledge Blog Series 1/6",
+    "url": "https://outshift.cisco.com/blog/insights/the-tacit-knowledge-blog-series-1",
+    "kind": "企业官方DIKW讨论",
+    "position": "DIKW knowledge pyramid",
+    "date": "2022-10-17",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E17",
+    "title": "IBM Developer｜From data to knowledge",
+    "url": "https://developer.ibm.com/articles/ba-data-becomes-knowledge-1/",
+    "kind": "企业技术栏目相关主题",
+    "position": "作者Vinay Rao；栏目题名及发布日期",
+    "date": "2018-03-05",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E18",
+    "title": "ISO/IEC TR 25005-2:2025｜官方出版记录",
+    "url": "https://www.iso.org/standard/86195.html",
+    "kind": "国际标准化技术报告",
+    "position": "Technical Report；ISO/IEC JTC 1；第一版",
+    "date": "2025-10",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E19",
+    "title": "ISO/IEC TR 25005-2:2025｜公开正文预览",
+    "url": "https://standards.iteh.ai/catalog/standards/iso/31c3610b-9085-481b-8081-6f8850ec1dbb/iso-iec-tr-25005-2-2025",
+    "kind": "正文方法框架采用",
+    "position": "§6.2 DIKWPA案例分析框架；§7.1数据价值链理论基础；23项案例；参考文献22",
+    "date": "2025",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E20",
+    "title": "CAAI｜2024中国人工智能系列白皮书：人工智能基础选编",
+    "url": "https://www.caai.cn/index.php?s=/home/article/detail/id/4375.html",
+    "kind": "专业学会出版",
+    "position": "系列白皮书出版记录",
+    "date": "2024",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E21",
+    "title": "海南大学｜团队统筹CAAI白皮书第一、二章",
+    "url": "https://cs.hainanu.edu.cn/info/1035/9040.htm",
+    "kind": "高校官方作者贡献记录",
+    "position": "第一章DIKWP；第二章人工智能与人工意识",
+    "date": "",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E22",
+    "title": "刘炜等｜主权AI视域下的中国数字人文自主知识体系建设",
+    "url": "https://dhr.ruc.edu.cn/CN/Y2025/V5/I4/3",
+    "kind": "独立论文核心框架采用",
+    "position": "数字人文研究2025,5(4):3–16；作者单位与摘要的语义主权/DIKWP",
+    "date": "2025",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E23",
+    "title": "Margarita V. Medvedeva｜DIKWP Model as a Tool for Cognitive Maturity of Quality Management System",
+    "url": "https://s-lib.com/en/issues/eiu_2026_04_v14_a6/",
+    "kind": "独立国际论文研究采用",
+    "position": "LETI；2026年第4期第14卷，52–65页",
+    "date": "2026",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E24",
+    "title": "Oroos Arshi / Aryan Chaudhary｜Overview of Artificial General Intelligence (AGI)",
+    "url": "https://link.springer.com/chapter/10.1007/978-981-97-3222-7_1",
+    "kind": "独立学术文献引用",
+    "position": "参考文献27、31引用Li–Duan DIKWP伦理表现/GPT-4测评；UPES与Bio-Tech Sphere作者单位",
+    "date": "2024-08-31",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E25",
+    "title": "Rudi Schmidt｜Unlocking the Code of Innovation: TRIZ Theory’s Blueprint for Precision Medicine Breakthroughs",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-031-77302-0_1",
+    "kind": "独立跨领域学术引用",
+    "position": "参考文献76引用Wu–Duan DIKWP-TRIZ；作者单位IHLAD Abu Dhabi",
+    "date": "2025-03-11",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E26",
+    "title": "Robert Lawrence Kuhn｜A Landscape of Consciousness",
+    "url": "https://channelmcgilchrist.com/a-landscape-of-consciousness-toward-a-taxonomy-of-explanations-and-implications-by-robert-lawrence-kuhn-doi-org-10-1016-j.pbiomolbio.2023.12.003/",
+    "kind": "独立国际理论评述",
+    "position": "数学理论部分对Duan BUG的讨论；DOI 10.1016/j.pbiomolbio.2023.12.003",
+    "date": "2024",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E27",
+    "title": "TechPolicy.Press｜Digital Sovereignty Means Breaking the Western Monopoly on AI Meaning",
+    "url": "https://www.techpolicy.press/digital-sovereignty-means-breaking-the-western-monopoly-on-ai-meaning/",
+    "kind": "独立政策文章采用/讨论",
+    "position": "Sujata Mukherjee、Sasha Maria Mathew；DIKWP与语义主权",
+    "date": "2026-04-28",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E28",
+    "title": "《语义数学概论》——架起符号与意义的桥梁，开启智能革命新视角",
+    "url": "https://www.cbbr.com.cn/contents/533/108502.html",
+    "kind": "正式图书出版报道/具名书评",
+    "position": "ISBN9787560678931；李挥、窦尔翔、何炳生评价",
+    "date": "2026-04-28",
+    "checked": "2026-09-16",
+    "status": "出版行业报道正文复核"
+  },
+  {
+    "id": "E29",
+    "title": "大学图书馆书目｜人工意识概论",
+    "url": "https://jp.tfswufe.edu.cn/opac/book/ac48eaebe954b0800a3172713f624704",
+    "kind": "图书馆书目",
+    "position": "ISBN9787523613184；段玉聪、李立中；中国科学技术出版社",
+    "date": "2025",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E30",
+    "title": "大学图书馆书目｜人工意识与人类意识",
+    "url": "https://jp.tfswufe.edu.cn/opac/book/0ed03b58ef3f3c511ea4a8e448026592",
+    "kind": "图书馆书目",
+    "position": "ISBN9787523614051；段玉聪、徐鹤军；中国科学技术出版社",
+    "date": "2025",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E31",
+    "title": "图书销售书目｜玩透DeepSeek",
+    "url": "https://www.96192.com/product/detail/1171668",
+    "kind": "图书书目",
+    "position": "ISBN9787301363935；北京大学出版社",
+    "date": "2025",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E32",
+    "title": "Foyles｜Fundamentals of Active Medicine（主动医学概论：初级版）",
+    "url": "https://www.foyles.co.uk/book/fundamentals-of-active-medicine/9781917143530",
+    "kind": "国际书商书目",
+    "position": "ISBN9781917143530；段玉聪、冯煜；New Classic Press；中文书",
+    "date": "2025",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E33",
+    "title": "三民书目｜主动医学：人工智能赋能人类健康",
+    "url": "https://www.sanmin.com.tw/product/index/014968228",
+    "kind": "图书书目",
+    "position": "ISBN9787523615331；段玉聪、樊光辉；中国科学技术出版社",
+    "date": "2025",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E34",
+    "title": "芸台购书目｜智驾新纪元：AI标准引领未来交通",
+    "url": "https://yuntaigo.com/book.action?recordid=bm1tYWZhbWM5Nzg3NTIzNjE3ODQ3",
+    "kind": "图书书目",
+    "position": "ISBN9787523617847；段玉聪、李立中；中国科学技术出版社",
+    "date": "2025-12",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E35",
+    "title": "芸台购书目｜意识简史",
+    "url": "https://yuntaigo.com/book.action?recordid=b2hhbnpia2M5Nzg3MzAwMzQ1NDM3",
+    "kind": "图书书目",
+    "position": "ISBN9787300345437；段玉聪；中国人民大学出版社；406页",
+    "date": "2026-03",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E36",
+    "title": "三民书目｜AI重塑经济与需求逻辑：从注意力到意图的智能革命",
+    "url": "https://www.sanmin.com.tw/product/index/015559299",
+    "kind": "图书书目",
+    "position": "ISBN9787301372913；段玉聪、朱绵茂、李立中；北京大学出版社；380页",
+    "date": "2026-05-01",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E37",
+    "title": "知乎｜《意识简史》",
+    "url": "https://zhuanlan.zhihu.com/p/2077488306363934569",
+    "kind": "作者中文公开研究/新书解读",
+    "position": "题名、日期及索引内容：意识演进与网状DIKWP",
+    "date": "2026-08-30",
+    "checked": "2026-09-15",
+    "status": "保留前版可追溯条目；本轮全文访问受限，不声称穷尽最新发表"
+  },
+  {
+    "id": "E38",
+    "title": "知乎｜基于DIKWP语义结构的人工意识体构建：理论与工程技术报告",
+    "url": "https://zhuanlan.zhihu.com/p/2001739626067555816",
+    "kind": "作者中文公开技术报告",
+    "position": "题名、日期、研究主题",
+    "date": "2026-02-02",
+    "checked": "2026-09-15",
+    "status": "保留前版可追溯条目；本轮全文访问受限，不声称穷尽最新发表"
+  },
+  {
+    "id": "E39",
+    "title": "知乎｜DIKWP模型拓展与DIKWPaaS服务平台",
+    "url": "https://zhuanlan.zhihu.com/p/2001739985963992581",
+    "kind": "作者中文公开研究",
+    "position": "题名、日期、服务平台研究主题",
+    "date": "2026-02-02",
+    "checked": "2026-09-15",
+    "status": "保留前版可追溯条目；本轮全文访问受限，不声称穷尽最新发表"
+  },
+  {
+    "id": "E40",
+    "title": "知乎｜从DIKWP到WAAC：段玉聪推动人工意识研究进入可解释、可评估、可治理的新阶段",
+    "url": "https://zhuanlan.zhihu.com/p/2037864788919833229",
+    "kind": "中文公开研究传播",
+    "position": "题名、日期及研究传播主题",
+    "date": "2026-05-13",
+    "checked": "2026-09-15",
+    "status": "保留前版可追溯条目；本轮全文访问受限，不声称穷尽最新发表"
+  },
+  {
+    "id": "E41",
+    "title": "YucongDuan GitHub｜README及483仓库目录",
+    "url": "https://github.com/YucongDuan/YucongDuan",
+    "kind": "作者开放研究目录",
+    "position": "2026-09-08目录：483仓库、12研究领域；非本次全量代码审计",
+    "date": "2026-09-08",
+    "checked": "2026-09-16",
+    "status": "GitHub连接器重新读取README与目录；统计日期2026-09-08"
+  },
+  {
+    "id": "E42",
+    "title": "科技日报｜DIKWP白盒大模型测评报道",
+    "url": "https://www.stdaily.com/web/gdxw/2025-02/19/content_298792.html",
+    "kind": "科技媒体报道",
+    "position": "团队100题白盒测评；新闻报道不替代独立复测",
+    "date": "2025-02-19",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E43",
+    "title": "计算机工程｜DIKWP驱动的意图生命周期建模与语义路径构建",
+    "url": "https://www.ecice06.com/EN/10.19678/j.issn.1000-3428.0253161",
+    "kind": "作者团队学术论文",
+    "position": "褚泽世、段玉聪、王敏惠；2026,52(1):86–94",
+    "date": "2026",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E44",
+    "title": "Wu & Duan｜DIKWP-TRIZ研究",
+    "url": "https://doi.org/10.3390/app142310865",
+    "kind": "作者团队学术论文",
+    "position": "Applied Sciences 2024,14(23):10865",
+    "date": "2024",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E45",
+    "title": "桂林电子科技大学｜广西人工智能学院相关建设报道",
+    "url": "https://www.guet.edu.cn/2025/0910/c9041a141605/page.htm",
+    "kind": "学院官方需求背景",
+    "position": "人才培养、技术研发、产业孵化、国际合作",
+    "date": "2025-09-10",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E46",
+    "title": "桂林电子科技大学｜中国—东盟人工智能伦理治理政策工具研发交流会",
+    "url": "https://www.guet.edu.cn/2026/0825/c6363a159008/page.htm",
+    "kind": "学院官方需求背景",
+    "position": "将伦理治理原则落实为政策工具与可操作环节",
+    "date": "2026-08-25",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E47",
+    "title": "IEEE SERVICES｜KGaaS 2019 workshop",
+    "url": "https://conferences.computer.org/services/2019/workshops/kgaas_workshop.html",
+    "kind": "会议官方组织记录",
+    "position": "Workshop Chair；知识图谱到DIKW资源研究",
+    "date": "2019",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E48",
+    "title": "IEEE DIKW 2024｜会议官方记录",
+    "url": "https://www.ieee-hust-ncc.org/2024/DIKW/index.html",
+    "kind": "会议官方组织记录",
+    "position": "Conference Chair；DIKW系列会议",
+    "date": "2024",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E49",
+    "title": "段玉聪个人研究门户",
+    "url": "http://www.yucongduan.org/",
+    "kind": "作者研究门户",
+    "position": "研究、图书、论文及影响力入口",
+    "date": "2026",
+    "checked": "2026-09-15",
+    "status": "本轮根站访问受限；使用可核对的外部记录补齐"
+  },
+  {
+    "id": "E50",
+    "title": "广东技术师范大学｜CN121981217A",
+    "url": "https://patents.google.com/patent/CN121981217A/zh",
+    "kind": "缩写歧义排除",
+    "position": "本文P=Practice，不计入Purpose-DIKWP采用",
+    "date": "2026-05-05",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E51",
+    "title": "海南大学｜CN113643785A｜基于DIKW图谱的疫苗接种浓度确认方法",
+    "url": "https://patents.google.com/patent/CN113643785A/zh",
+    "kind": "作者团队前序专利",
+    "position": "发明人段玉聪、胡婷；被E09后续专利讨论",
+    "date": "",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E52",
+    "title": "DIKWP-MESH²｜开源参考实现",
+    "url": "https://github.com/YucongDuan/DIKWP-MESH-",
+    "kind": "作者开源项目",
+    "position": "25类基础转换、替代路径和冲突；工程状态参见版本记录",
+    "date": "",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E53",
+    "title": "PACT｜Purpose及权限约束参考实现",
+    "url": "https://github.com/YucongDuan/DIKWP-PACT-v0.1.0",
+    "kind": "作者开源项目",
+    "position": "72合成情景、4个基线为仓库记录；本轮不宣称重新执行测试",
+    "date": "",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E54",
+    "title": "VerityWeave｜证据、语境与激励检查",
+    "url": "https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0",
+    "kind": "作者开源项目",
+    "position": "证据对齐、输出验证、行动条件",
+    "date": "",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E55",
+    "title": "ClearPath / DemandProof / LucidEcon｜透明经济项目专题",
+    "url": "https://github.com/YucongDuan/YucongDuan/blob/main/TRANSPARENT_ECONOMY.md",
+    "kind": "作者开源项目",
+    "position": "需求、能力与贡献协作；2026-09-08发布记录",
+    "date": "2026-09-08",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E56",
+    "title": "作者影响力资料地图｜DIKWP_EVIDENCE_MAP",
+    "url": "https://github.com/YucongDuan/YucongDuan/blob/main/DIKWP_EVIDENCE_MAP.md",
+    "kind": "作者线索目录",
+    "position": "仅作检索导航；本次对专利歧义、机构关系重新分类",
+    "date": "2026-08-25",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E57",
+    "title": "ApFramework｜DIKW/DIKWP视角下的企业智能体落地方法",
+    "url": "https://apframework.com/",
+    "kind": "独立公开工程讨论",
+    "position": "2026-06-02文章索引；五层工程诊断框架",
+    "date": "2026-06-02",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E58",
+    "title": "河南版书目｜人工意识的数学：语义数学与3-No问题",
+    "url": "https://www.megbook.com.tw/mall/detail.jsp?proID=4201077",
+    "kind": "正式图书书目与内容介绍",
+    "position": "段玉聪；河南科学技术出版社；2026-02-01；348页；ISBN9787572521805；目录与出版内容介绍",
+    "date": "2026-02-01",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E59",
+    "title": "博客来｜人工意识的数学：语义数学与3-No问题",
+    "url": "https://www.books.com.tw/products/CN18099782",
+    "kind": "正式图书书目交叉核对",
+    "position": "ISBN9787572521805；河南科学技术出版社；2026年2月",
+    "date": "2026-02",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E60",
+    "title": "Insured AI｜DIKWP Framework",
+    "url": "https://insuredai.ca/framework",
+    "kind": "企业官网直接命名DIKWP的产品框架",
+    "position": "五层评估；40+文档槽位；每文档10项评分（1—5）；风险等级、保费估计、转介标记与报告",
+    "date": "页面未标发布日期",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E61",
+    "title": "Insured AI｜公司公开介绍",
+    "url": "https://ca.linkedin.com/company/planin-mobility",
+    "kind": "企业自述与品牌核对",
+    "position": "Insured AI；网站insuredai.ca；加拿大渥太华；面向AI风险评级与保险",
+    "date": "公司页未标发布日期",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E62",
+    "title": "WAAC｜2025年巴黎创立公告",
+    "url": "https://waac.ac/news/WAAC-Officially-Established-in-Paris",
+    "kind": "科学院官方创立公告",
+    "position": "2025年4月巴黎；四方共同发起；首届院长段玉聪；秘书长Yingbo Li",
+    "date": "2025-04-20",
+    "checked": "2026-09-16",
+    "status": "官方创立公告或成员所在机构报道重新读取"
+  },
+  {
+    "id": "E63",
+    "title": "中科院国际灵长类脑研究中心｜Nikos Logothetis当选WAAC院士",
+    "url": "https://www.icpbr.ac.cn/ne/news/202607/t20260706_848646.html",
+    "kind": "成员所在科研机构独立公告",
+    "position": "中心联合主任当选；报道载明当时成员包括8位诺贝尔奖得主和1位图灵奖得主",
+    "date": "2026-07-06",
+    "checked": "2026-09-16",
+    "status": "官方创立公告或成员所在机构报道重新读取"
+  },
+  {
+    "id": "E64",
+    "title": "大阪大学浅田研究室｜Minoru Asada当选WAAC成员",
+    "url": "https://www.er.ams.eng.osaka-u.ac.jp/asadalab/?lang=en&p=1391",
+    "kind": "成员所在大学研究室公告",
+    "position": "Professor Asada elected member of WAAC；公告标题标示2025年10月当选",
+    "date": "2025-12-01",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E65",
+    "title": "哥白尼大学卓越计划｜In the World Academy of Artificial Consciousness",
+    "url": "https://idub.umk.pl/en/in-the-world-academy-of-artificial-consciousness/",
+    "kind": "成员所在大学独立公告",
+    "position": "Włodzisław Duch获得WAAC院士称号；物理、天文与信息学交叉研究",
+    "date": "2025",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E66",
+    "title": "WAAC｜Giacomo Indiveri当选公告",
+    "url": "https://waac.ac/news/24-Giacomo-Indiveri",
+    "kind": "科学院官方成员公告",
+    "position": "苏黎世大学与苏黎世联邦理工相关神经信息研究学者Giacomo Indiveri",
+    "date": "2025-08-29",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E67",
+    "title": "首届世界人工意识大会｜2023官方会议页",
+    "url": "https://www.yucongduan.org/DIKWP-AC/2023/",
+    "kind": "会议官方历史页面",
+    "position": "2023-08-22至24；线上；人工智能与意识交叉议题",
+    "date": "2023-08-22—24",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E68",
+    "title": "第二届世界人工意识大会｜2024官方会议页",
+    "url": "https://www.yucongduan.org/DIKWP-AC/2024/",
+    "kind": "会议官方历史页面",
+    "position": "2024-12-21至22；线上；人工意识与主动医学等主题",
+    "date": "2024-12-21—22",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E69",
+    "title": "北京印刷学院｜齐元胜教授参加第二届世界人工意识大会",
+    "url": "https://news.bigc.edu.cn/xykb/47b9231d42c142acbbb1b68fc3f44118.htm",
+    "kind": "参会单位会后报道",
+    "position": "齐元胜作印刷与包装行业智能化报告；报道载20余国、累计3万余人参与",
+    "date": "2024-12-29",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E70",
+    "title": "WACA｜2025年度会议与第三届大会筹备会",
+    "url": "https://waac.ac/news/WACA-Annual-Meeting-EN",
+    "kind": "组织方年度活动报告",
+    "position": "2025-07-29；专业委员会年度工作；新增经济学与机器人委员会；跨界交流",
+    "date": "2025-07-29",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E71",
+    "title": "清华大学智能可穿戴中心｜第三届大会成功举办",
+    "url": "https://www.tsinghua-iwearable-center.com/NewsDetail.aspx?ID=272",
+    "kind": "参会中心会后报道",
+    "position": "2026-03-21深圳；Seeram Ramakrishna出席并演讲；报道人工意识伦理与安全联合实验室启动",
+    "date": "2026-03-21",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E72",
+    "title": "WAAC｜第三届大会2026年3月正式议程",
+    "url": "https://www.waac.ac/news/News260314",
+    "kind": "会议正式议程",
+    "position": "3月21日议程；Adam Zeman、Ezequiel Morsella、Rattan Lal等列示线上报告；段玉聪主席角色",
+    "date": "2026-03-14",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E73",
+    "title": "第四届世界人工意识大会｜筹备版官方网站",
+    "url": "https://www.wcac2026.com/",
+    "kind": "未来会议筹备信息",
+    "position": "拟2026-12-18至20海口；基于6月5日筹备纪要；注册、投稿和确认嘉宾待正式通知",
+    "date": "2026-06-05筹备依据",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E74",
+    "title": "IEEE SERVICES 2020｜Knowledge Networks workshop",
+    "url": "https://conferences.computer.org/services/2020/workshops/knworkshop.html",
+    "kind": "IEEE官方组织记录",
+    "position": "Yucong Duan为Workshop Chair之一；IBM Watson、阿里巴巴等背景学者列入委员会",
+    "date": "2020",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E75",
+    "title": "IEEE SERVICES 2021｜DIKWN workshop",
+    "url": "https://conferences.computer.org/services/2021/workshops/dikwn_workshop.html",
+    "kind": "IEEE官方组织记录",
+    "position": "Yucong Duan为Program Chair之一；组织记录包含广西大学、阿里巴巴、IBM等单位背景学者",
+    "date": "2021",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "E76",
+    "title": "IEEE SERVICES 2021｜DIKWN technical program",
+    "url": "https://conferences.computer.org/services/2021/programs/dikwn_program.html",
+    "kind": "IEEE官方技术议程",
+    "position": "2021-09-06；段玉聪、赵立主持讨论；MIT、Facebook等背景嘉宾列示；Purpose Driven DIKW论文",
+    "date": "2021-09-06",
+    "checked": "2026-09-15",
+    "status": "上一版来源记录保留；本轮按重点选择性复核"
+  },
+  {
+    "id": "N01",
+    "title": "广西人工智能学院赴越南产业论坛与合作记录",
+    "url": "https://www.guet.edu.cn/2026/0522/c6357a154010/page.htm",
+    "kind": "学院所在高校官方报道",
+    "date": "2026-05-22",
+    "position": "河内共识、智慧农业与智能制造、越南全球电子商务协会合作、越南高校交流",
+    "checked": "2026-09-16",
+    "status": "本轮公开正文或出版方索引核对"
+  },
+  {
+    "id": "N02",
+    "title": "人民日报海外版：广西人工智能学院成立与办学定位",
+    "url": "https://gx.people.com.cn/n2/2025/0906/c179435-41343685.html",
+    "kind": "中央媒体办学报道",
+    "date": "2025-09-06",
+    "position": "四项定位、21个研究方向；按报道日期呈现",
+    "checked": "2026-09-16",
+    "status": "本轮公开正文或出版方索引核对"
+  },
+  {
+    "id": "N03",
+    "title": "光明日报：广西人工智能学院以破局者姿态拥抱智能时代",
+    "url": "https://finance.people.com.cn/n1/2026/0817/c1004-40780609.html",
+    "kind": "中央媒体办学报道",
+    "date": "2026-08-17",
+    "position": "学院人才培养与场景创新背景",
+    "checked": "2026-09-16",
+    "status": "本轮公开正文或出版方索引核对"
+  },
+  {
+    "id": "N04",
+    "title": "广西大学东南亚语+人工智能研究生培养",
+    "url": "https://yjsc.gxu.edu.cn/info/1013/4633.htm",
+    "kind": "区域高校官方信息",
+    "date": "2026-06-29",
+    "position": "广西大学区域人才信号；不混同为广西人工智能学院项目",
+    "checked": "2026-09-16",
+    "status": "本轮公开正文或出版方索引核对"
+  },
+  {
+    "id": "N05",
+    "title": "Bridging Cognitive and Expression Spaces in Creative AI by Integrating DIKWP-TRIZ and Semantic Mathematics",
+    "url": "https://www.mdpi.com/2079-9292/15/5/963",
+    "kind": "作者团队正式期刊论文",
+    "date": "2026-02-26",
+    "position": "Guo / Duan；25类转换、语境化约束、参考架构与定性案例；DOI 10.3390/electronics15050963",
+    "checked": "2026-09-16",
+    "status": "本轮公开正文或出版方索引核对"
+  },
+  {
+    "id": "N06",
+    "title": "DIKWP+BUG Architecture for Purpose-Aware Cognitive Computing",
+    "url": "https://www.mdpi.com/2504-2289/10/6/196",
+    "kind": "作者团队正式期刊论文",
+    "date": "2026-06-21",
+    "position": "Guo / Duan；运行时仿真；ACPU参考结构、ACOS、语义通信与安全；DOI 10.3390/bdcc10060196",
+    "checked": "2026-09-16",
+    "status": "本轮公开正文或出版方索引核对"
+  },
+  {
+    "id": "N07",
+    "title": "DIKWP-Guided Semantic Modeling of Intellectual Property Reasoning for Explainable Legal AI",
+    "url": "https://www.mdpi.com/2076-3417/16/12/6076",
+    "kind": "作者团队正式期刊论文",
+    "date": "2026-06-16",
+    "position": "Guo / Duan；专利、版权、商标的可查询语义结构与设计案例；DOI 10.3390/app16126076",
+    "checked": "2026-09-16",
+    "status": "本轮公开正文或出版方索引核对"
+  },
+  {
+    "id": "N08",
+    "title": "A Purpose-Aware Semantic Reasoning Model for Patent Infringement Detection in the DIKWP Network",
+    "url": "https://www.mdpi.com/2079-9292/15/11/2449",
+    "kind": "作者团队正式期刊论文",
+    "date": "2026-06-03",
+    "position": "Guo / Duan；语义要素、规则与证据对齐；DOI 10.3390/electronics15112449",
+    "checked": "2026-09-16",
+    "status": "本轮公开正文或出版方索引核对"
+  },
+  {
+    "id": "N09",
+    "title": "CN121328521A：结合大语言模型的DIKWP自然语言解析增强方法",
+    "url": "https://patents.google.com/patent/CN121328521A/en",
+    "kind": "原创团队专利公开文本",
+    "date": "2026-01-13",
+    "position": "海南大学；LLM预解析、DIKWP映射、双通道检查与语义修订",
+    "checked": "2026-09-16",
+    "status": "本轮公开正文或出版方索引核对"
+  },
+  {
+    "id": "N10",
+    "title": "CN121637463A：基于DIKWP语义区块链的专利确权与溯源系统及方法",
+    "url": "https://patents.google.com/patent/CN121637463A/en",
+    "kind": "原创团队专利公开文本",
+    "date": "2026-03-10",
+    "position": "海南大学；创新过程语义节点、哈希记录与贡献路径；技术方案不等同司法确权",
+    "checked": "2026-09-16",
+    "status": "本轮公开正文或出版方索引核对"
+  },
+  {
+    "id": "N11",
+    "title": "Compasses, not maps: China is building a different type of AI",
+    "url": "https://asiatimes.com/2026/07/compasses-not-maps-china-is-building-a-different-type-of-ai/",
+    "kind": "独立国际评论",
+    "date": "2026-07-06",
+    "position": "Jan Krikke点名Yucong Duan与DIKWP，以Purpose讨论动态适应；7月10日更新",
+    "checked": "2026-09-16",
+    "status": "本轮公开正文或出版方索引核对"
+  },
+  {
+    "id": "N12",
+    "title": "世界人工意识协会智慧交通专业委员会在广州成立",
+    "url": "https://www.xkb.com.cn/articleDetail/488917",
+    "kind": "新闻机构现场报道",
+    "date": "2026-04-24",
+    "position": "4月23日成立；广东省智能交通协会提出申请，经WACA理事会审议；发布白皮书与倡议",
+    "checked": "2026-09-16",
+    "status": "本轮公开正文或出版方索引核对"
+  },
+  {
+    "id": "N13",
+    "title": "AI+交通运输创新联盟与高风险AI测评治理白皮书",
+    "url": "https://www.xkb.com.cn/articleDetail/488916",
+    "kind": "新闻机构现场报道",
+    "date": "2026-04-24",
+    "position": "段玉聪视频致辞；白皮书组织数据、信息、知识、智慧、意图五层测评；不得混为WAAC单独活动",
+    "checked": "2026-09-16",
+    "status": "本轮公开正文或出版方索引核对"
+  },
+  {
+    "id": "N14",
+    "title": "新华社：第五届中国数据要素50人论坛",
+    "url": "https://www.news.cn/info/20250704/814e0ffc5b52491496435d90e366691c/c.html",
+    "kind": "国家通讯社会议报道",
+    "date": "2025-07-04",
+    "position": "段玉聪DIKWP白盒测评报告进入数据治理公共交流",
+    "checked": "2026-09-16",
+    "status": "作者证据地图与可追溯原文入口；本轮未完整复核全文"
+  },
+  {
+    "id": "N15",
+    "title": "人民周刊：加强主权AI建设，提升竞争力",
+    "url": "https://paper.people.com.cn/rmzk/pc/content/202411/18/content_30031439.html",
+    "kind": "独立公共议题报道",
+    "date": "2024-11-18",
+    "position": "引用段玉聪主权AI定义，展开基础设施、文化与治理讨论",
+    "checked": "2026-09-16",
+    "status": "作者证据地图与可追溯原文入口；本轮未完整复核全文"
+  },
+  {
+    "id": "N16",
+    "title": "CCF：语义主权与意图驱动的职业教育议题",
+    "url": "https://www.ccf.org.cn/Chapters/Governance/Vocational_Education/Updates/2025-11-04/851185.shtml",
+    "kind": "专业学会会议记录",
+    "date": "2025-11-04",
+    "position": "DIKWP与职业教育；本轮正文抓取受限，沿用已核读来源",
+    "checked": "2026-09-16",
+    "status": "作者证据地图与可追溯原文入口；本轮未完整复核全文"
+  },
+  {
+    "id": "N17",
+    "title": "GEO实践的DIKWP知识蒸馏说明",
+    "url": "https://developer.cloud.tencent.com/article/2602389",
+    "kind": "开发者平台投稿",
+    "date": "2025",
+    "position": "投稿技术表达；平台承载不等同腾讯公司采用",
+    "checked": "2026-09-16",
+    "status": "作者证据地图与可追溯原文入口；本轮未完整复核全文"
+  },
+  {
+    "id": "N18",
+    "title": "Fujitsu：Goal-oriented business与DIKW",
+    "url": "https://corporate-blog.global.fujitsu.com/fgb/2020-01-29/data-ai-accelerates-dx-realization-part-1-what-is-a-goal-oriented-business-and-how-does-it-maximize-data-value/",
+    "kind": "企业官方技术阐释",
+    "date": "2020-01-29",
+    "position": "目标导向业务与DIKW，列为相关产业方向而非直接DIKWP采用",
+    "checked": "2026-09-16",
+    "status": "作者证据地图与可追溯原文入口；本轮未完整复核全文"
+  },
+  {
+    "id": "N19",
+    "title": "WAAC：Giorgio Metta成员公告",
+    "url": "https://waac.ac/news/111-Giorgio-Metta",
+    "kind": "科学院成员公告",
+    "date": "2026-07-16",
+    "position": "公告连接意大利技术研究院与具身机器人研究；个人成员关系",
+    "checked": "2026-09-16",
+    "status": "本轮公开正文或出版方索引核对"
+  },
+  {
+    "id": "N20",
+    "title": "WAAC：Peter Stone成员公告",
+    "url": "https://waac.ac/news/108-Peter-Stone",
+    "kind": "科学院成员公告",
+    "date": "2026-07-13",
+    "position": "公告连接UT Austin、Sony AI背景与多智能体研究；不写成公司技术采用",
+    "checked": "2026-09-16",
+    "status": "本轮公开正文或出版方索引核对"
+  },
+  {
+    "id": "N21",
+    "title": "WAAC：Antonio Chella成员公告",
+    "url": "https://waac.ac/news/72-Antonio-Chella",
+    "kind": "科学院成员公告",
+    "date": "2026-01-05",
+    "position": "巴勒莫大学机器人与人工意识研究背景；个人成员关系",
+    "checked": "2026-09-16",
+    "status": "本轮公开正文或出版方索引核对"
+  },
+  {
+    "id": "N22",
+    "title": "DIKWP-SEMANTIC WORLDCORE 6.4A 人类认知方式下的语义世界模型核心系统",
+    "url": "https://www.researchgate.net/publication/411145027_DIKWP-SEMANTIC_WORLDCORE_64A_renleirenzhifangshixiadeyuyishijiemoxinghexinxitong",
+    "kind": "作者团队中文技术报告",
+    "date": "2026-08-03",
+    "position": "Duan / Gong；语义世界模型；DOI 10.13140/RG.2.2.17245.37601",
+    "checked": "2026-09-16",
+    "status": "本轮公开正文或出版方索引核对"
+  },
+  {
+    "id": "N23",
+    "title": "GitHub：483仓库、12研究领域的正式目录快照",
+    "url": "https://github.com/YucongDuan/YucongDuan/blob/main/REPOSITORY_DIRECTORY.md",
+    "kind": "作者维护的开放项目目录",
+    "date": "2026-09-08",
+    "position": "本轮连接器重读；139/71/36/80/9/31/44/23/12/6/21/11",
+    "checked": "2026-09-16",
+    "status": "本轮公开正文或出版方索引核对"
+  },
+  {
+    "id": "N24",
+    "title": "GitHub：483仓库REST元数据快照",
+    "url": "https://github.com/YucongDuan/YucongDuan/blob/main/REPOSITORY_METADATA_2026-09-08.json",
+    "kind": "作者维护的元数据快照",
+    "date": "2026-09-08",
+    "position": "本轮读取元数据表头与样例；本包保留历史候选导航，不冒充重新全量下载",
+    "checked": "2026-09-16",
+    "status": "连接器读取表头与样例；非全文件下载"
+  },
+  {
+    "id": "N25",
+    "title": "DIKWP-Driven Artificial Consciousness for IoT-Enabled Smart Healthcare Systems",
+    "url": "https://www.mdpi.com/2076-3417/15/15/8508",
+    "kind": "作者团队正式期刊论文",
+    "date": "2025-07-31",
+    "position": "Duan / Guo；边缘—云端DIKWP智能体与智慧健康；DOI 10.3390/app15158508",
+    "checked": "2026-09-16",
+    "status": "公开期刊元数据与作者摘要核对；原文入口随附"
+  },
+  {
+    "id": "N26",
+    "title": "DIKWP Semantic Judicial Reasoning: A Framework for Semantic Justice in AI and Law",
+    "url": "https://www.mdpi.com/2078-2489/16/8/640",
+    "kind": "作者团队正式期刊论文",
+    "date": "2025",
+    "position": "Mei / Duan；AI与法律语义推理；DOI 10.3390/info16080640",
+    "checked": "2026-09-16",
+    "status": "公开期刊元数据与作者摘要核对；原文入口随附"
+  },
+  {
+    "id": "N27",
+    "title": "CN119477240A：基于多方共建共享的企业紧缺人才推荐方法",
+    "url": "https://patents.google.com/patent/CN119477240A/zh",
+    "kind": "外部高校专利公开文本",
+    "date": "2025-02-18",
+    "position": "盐城工业职业技术学院；人才DIKWP模型与多方资源匹配",
+    "checked": "2026-09-16",
+    "status": "重新读取申请人、公开日期与DIKWP相关正文"
+  },
+  {
+    "id": "N28",
+    "title": "CN120407920A：一种股票筛选方法及系统",
+    "url": "https://patents.google.com/patent/CN120407920A/zh",
+    "kind": "外部后续专利引用",
+    "date": "2025",
+    "position": "背景明确引用CN118134640A的用户DIKWP模型与股票DIKW图谱，构成后续技术响应",
+    "checked": "2026-09-16",
+    "status": "公开说明书背景内容重新核对"
+  }
+]

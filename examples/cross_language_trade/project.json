@@ -1,0 +1,81 @@
+{
+  "schema": "openstudio.project/1",
+  "id": "p_mu3u8rhg_4znbdbgute",
+  "title": "中越产品语义核对",
+  "problem": "Compare cross-language product data",
+  "beneficiary": "",
+  "purpose": "Understand and compare",
+  "data": "",
+  "information": "",
+  "knowledge": "",
+  "wisdom": "",
+  "constraints": "",
+  "inherited": "DIKWP typed resources",
+  "changed": "Contextual unit comparison",
+  "hypothesis": "Normalization resolves equivalent units without hiding currency differences",
+  "evidence": "",
+  "reflection": "Unknown units still need human definition",
+  "locale": "zh",
+  "repositories": [
+    {
+      "name": "DIKWP-PACT-v0.1.0",
+      "url": "https://github.com/YucongDuan/DIKWP-PACT-v0.1.0",
+      "license": "Apache-2.0",
+      "role": "purpose check",
+      "commit": null
+    }
+  ],
+  "runs": [
+    {
+      "lab": "alignment",
+      "input": {
+        "left": {
+          "language": "zh",
+          "entity": "mango-lot-17",
+          "purpose": "compare-shipping",
+          "quantity": 1000,
+          "unit": "kg",
+          "currency": "CNY"
+        },
+        "right": {
+          "language": "vi",
+          "entity": "mango-lot-17",
+          "purpose": "compare-shipping",
+          "quantity": 1,
+          "unit": "tonne",
+          "currency": "CNY"
+        }
+      },
+      "output": {
+        "lab": "alignment",
+        "baseline": {
+          "status": "mismatch",
+          "method": "literal-fields"
+        },
+        "revision": {
+          "status": "equivalent",
+          "differences": [],
+          "unresolved": [],
+          "normalized": [
+            1000,
+            1000
+          ]
+        },
+        "trace": [
+          {
+            "step": "units",
+            "status": "equivalent",
+            "dimension": "mass",
+            "left": 1000,
+            "right": 1000
+          }
+        ],
+        "interpretation": "Structured semantic-slot comparison, not unrestricted natural-language translation."
+      },
+      "at": "2026-09-16T00:00:00Z",
+      "engine": "1.0.0"
+    }
+  ],
+  "updated_at": "2026-09-16T08:27:56.068Z",
+  "version": 0
+}

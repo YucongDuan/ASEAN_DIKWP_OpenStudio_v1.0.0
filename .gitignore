@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+instance/
+.env
+vendor/
+*.sqlite3*
+.playwright/
+qa/server.pid
+qa/server.log

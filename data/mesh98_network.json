@@ -1,0 +1,82 @@
+[
+  {
+    "person": "段玉聪 Yucong Duan",
+    "institution": "世界人工意识科学院 WAAC",
+    "relation": "首届院长",
+    "record_date": "2025-04-20",
+    "ref": "E62",
+    "boundary": "创立公告；联合发起，不写成单一组织独自创立"
+  },
+  {
+    "person": "Nikos Logothetis",
+    "institution": "中科院国际灵长类脑研究中心",
+    "relation": "机构公告其当选WAAC院士",
+    "record_date": "2026-07-06",
+    "ref": "E63",
+    "boundary": "个人成员，不等于中科院整体加入或技术采用"
+  },
+  {
+    "person": "Minoru Asada（浅田稔）",
+    "institution": "大阪大学浅田研究室",
+    "relation": "研究室公告其成为WAAC成员",
+    "record_date": "2025-12-01（公告）",
+    "ref": "E64",
+    "boundary": "个人成员，页面索引记录；本轮普通访问超时"
+  },
+  {
+    "person": "Włodzisław Duch",
+    "institution": "波兰哥白尼大学",
+    "relation": "大学公告其获WAAC院士称号",
+    "record_date": "2025",
+    "ref": "E65",
+    "boundary": "个人成员，不等于大学机构合作协议"
+  },
+  {
+    "person": "Giacomo Indiveri",
+    "institution": "苏黎世大学／苏黎世联邦理工相关神经信息研究",
+    "relation": "WAAC官方成员公告",
+    "record_date": "2025-08-29",
+    "ref": "E66",
+    "boundary": "科学院公告；未取得所在大学的对应独立公告"
+  },
+  {
+    "person": "Seeram Ramakrishna",
+    "institution": "智能可穿戴中心",
+    "relation": "第三届大会会后报道确认出席并演讲",
+    "record_date": "2026-03-21",
+    "ref": "E71",
+    "boundary": "出席确认；不外推为整所大学与学院合作"
+  },
+  {
+    "person": "Adam Zeman／Ezequiel Morsella／Rattan Lal",
+    "institution": "见第三届大会正式议程",
+    "relation": "线上报告在议程列示",
+    "record_date": "2026-03-14",
+    "ref": "E72",
+    "boundary": "议程列示，不等同逐人会后出席核验"
+  },
+  {
+    "person": "Giorgio Metta",
+    "institution": "意大利技术研究院（公告背景）",
+    "relation": "WAAC成员公告",
+    "record_date": "2026-07-16",
+    "ref": "N19",
+    "boundary": "个人成员关系"
+  },
+  {
+    "person": "Peter Stone",
+    "institution": "UT Austin／Sony AI（公告背景）",
+    "relation": "WAAC成员公告",
+    "record_date": "2026-07-13",
+    "ref": "N20",
+    "boundary": "个人成员关系"
+  },
+  {
+    "person": "Antonio Chella",
+    "institution": "巴勒莫大学（公告背景）",
+    "relation": "WAAC成员公告",
+    "record_date": "2026-01-05",
+    "ref": "N21",
+    "boundary": "个人成员关系"
+  }
+]

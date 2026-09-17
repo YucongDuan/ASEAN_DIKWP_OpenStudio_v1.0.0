@@ -1,0 +1,17 @@
+[
+  {
+    "suite": "python-tests",
+    "passed": true,
+    "cases": 80
+  },
+  {
+    "suite": "core-tests",
+    "passed": true,
+    "cases": 83
+  },
+  {
+    "suite": "student-scaffold-tests",
+    "passed": true,
+    "cases": 5
+  }
+]

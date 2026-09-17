@@ -1,0 +1,114 @@
+[
+  {
+    "id": "CN119917594A",
+    "entity": "浦发银行",
+    "title": "供应链金融业务的数据处理",
+    "relation": "Purpose-DIKWP技术方法",
+    "detail": "业务报文→DIKWP资源体→图谱→字段映射入库",
+    "ref": "E02"
+  },
+  {
+    "id": "CN120688465A",
+    "entity": "平安国际融资租赁",
+    "title": "文本自动填充方法及装置",
+    "relation": "DIKWP语义数学技术描述",
+    "detail": "以DIKWP语义分析技术识别文本关键词",
+    "ref": "E03"
+  },
+  {
+    "id": "CN116582360A",
+    "entity": "广东电网／东莞供电局",
+    "title": "网络安全评估方法",
+    "relation": "Purpose-DIKWP技术方法",
+    "detail": "终端、接入点DIKWP与服务器DIKW协同评估",
+    "ref": "E04"
+  },
+  {
+    "id": "CN116881772B",
+    "entity": "海南电网文昌供电局",
+    "title": "台区用电用户类型分类",
+    "relation": "Purpose-DIKWP技术方法",
+    "detail": "居民、商业、灌溉、养殖用户的模型匹配",
+    "ref": "E05"
+  },
+  {
+    "id": "CN121585225A",
+    "entity": "上海霄垣创新中心／上海宇航系统工程研究所",
+    "title": "卫星间基于大语言模型的自然语义通讯方法及系统",
+    "relation": "Purpose-DIKWP技术方法",
+    "detail": "DIKWP语义熵评价、任务拆分颗粒度与自然语义通信",
+    "ref": "E06"
+  },
+  {
+    "id": "CN121615796A",
+    "entity": "安徽卓越亿嘉信息科技",
+    "title": "人工意识可信交互控制",
+    "relation": "企业DIKWP专利公开",
+    "detail": "D/I/K/W/P安全结构、四空间、3No检测",
+    "ref": "E07"
+  },
+  {
+    "id": "CN117198465B",
+    "entity": "广州捷风网络科技",
+    "title": "中西医营养健康量化咨询",
+    "relation": "Purpose-DIKWP技术方法",
+    "detail": "用户DIKWP模型联结偏好、需求和领域图谱",
+    "ref": "E08"
+  },
+  {
+    "id": "CN121148586A",
+    "entity": "世窗信息",
+    "title": "免疫规划信息智能查询",
+    "relation": "后续专利引用与技术响应",
+    "detail": "背景直接讨论前序CN113643785A的DIKW图谱",
+    "ref": "E09"
+  },
+  {
+    "id": "EP4163831A1",
+    "entity": "华为",
+    "title": "神经网络蒸馏方法与设备",
+    "relation": "DIKW近邻专利语境",
+    "detail": "智能信息链：数据—信息—知识—智慧",
+    "ref": "E10"
+  },
+  {
+    "id": "US10652354B2",
+    "entity": "InvenSense",
+    "title": "可交换用户画像",
+    "relation": "S-DIKW近邻专利实践",
+    "detail": "传感器数据到画像知识与价值交换",
+    "ref": "E11"
+  },
+  {
+    "id": "CN121328521A",
+    "entity": "海南大学（段玉聪参与发明）",
+    "title": "结合大语言模型的DIKWP自然语言解析增强方法",
+    "relation": "原创团队申请公开",
+    "detail": "LLM预解析、语义映射与双通道一致性检查",
+    "ref": "N09"
+  },
+  {
+    "id": "CN121637463A",
+    "entity": "海南大学（段玉聪参与发明）",
+    "title": "基于DIKWP语义区块链的专利确权与溯源系统及方法",
+    "relation": "原创团队申请公开",
+    "detail": "创新节点、哈希记录与贡献路径",
+    "ref": "N10"
+  },
+  {
+    "id": "CN119477240A",
+    "entity": "盐城工业职业技术学院",
+    "title": "基于多方共建共享的企业紧缺人才推荐方法",
+    "relation": "外部Purpose-DIKWP技术方法",
+    "detail": "人才DIKWP模型与多方资源匹配",
+    "ref": "N27"
+  },
+  {
+    "id": "CN120407920A",
+    "entity": "北京量学伟业科技",
+    "title": "一种股票筛选方法及系统",
+    "relation": "后续专利技术响应",
+    "detail": "背景明确引述CN118134640A的用户DIKWP模型",
+    "ref": "N28"
+  }
+]

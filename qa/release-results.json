@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-16",
+  "python": "3.13.5",
+  "node": "v22.16.0",
+  "chromium": "Chromium 144.0.7559.96 built on Debian GNU/Linux 13 (trixie)",
+  "playwright": "1.57.0",
+  "suites": {
+    "core": {
+      "passed": 83,
+      "failed": 0
+    },
+    "python_api_upstream_http": {
+      "passed": 80,
+      "failed": 0
+    },
+    "browser_ui": {
+      "passed": 59,
+      "failed": 0
+    },
+    "exported_student_project": {
+      "passed": 5,
+      "failed": 0
+    }
+  },
+  "browser_scope": "Chromium set_content; explicit in-memory localStorage double; real WSGI API through test transport. URL navigation is restricted by host policy; no end-to-end network-browser or real browser disk-persistence claim.",
+  "live_github_fetch": "Not completed in the container; source connector reads succeeded, but source-download/sync scripts tested with controlled transport doubles.",
+  "deployment": "Local artifact delivery, no remote publication or institution deployment."
+}

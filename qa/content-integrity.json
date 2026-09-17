@@ -1,0 +1,12 @@
+{
+  "lesson_repository_links": "complete",
+  "lesson_lecture_links": "complete",
+  "scenario_repository_links": "complete",
+  "book_source_links": "complete",
+  "lecture_source_links": "complete",
+  "candidate_count": 483,
+  "lesson_count": 12,
+  "source_count": 107,
+  "slide_count": 128,
+  "zip_crc": "examples/cross_language_trade.zip and qa/browser_export.zip passed"
+}
