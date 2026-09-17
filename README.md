@@ -1,5 +1,13 @@
 # DIKWP OpenStudio — China–ASEAN Edition
 
+
+[**Start here · 使用导读**](GETTING_STARTED.md) · [Project details · 项目详情](https://github.com/YucongDuan/YucongDuan/blob/main/projects/1373871217.md)
+
+Learn with 12 Chinese/English/Vietnamese modules, four semantic labs and a portable student project.
+
+通过中英越三语12个模块、四类语义实验和可导出作品学习与创新。
+
+
 **Learn a method. Choose with reasons. Experiment. Inherit with provenance. Create your own contribution.**
 
 Created for Yucong Duan's (段玉聪) Guangxi AI Institute lecture and China–ASEAN learning context. Version 1.0.0, 16 September 2026. Apache-2.0 for new platform code and new teaching content.
